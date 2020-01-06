@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+##  Practical ML for Developing Countries: learning under limited/low resource scenarios @ ICLR 2020
 
+Website for the ICLR2020 PM4LDC Workshop.
 You can use the [editor on GitHub](https://github.com/PML4DC/iclr2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
