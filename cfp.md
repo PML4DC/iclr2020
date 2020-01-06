@@ -34,7 +34,8 @@ Constraints introduced by low resource environments inspire new approaches to co
 4-page submissions will be eligible for oral or poster presentation. One page submissions will be presented as posters.
 
 ### Submission Format
-Contributions should be blinded and submitted using the ICLR template via CMT. Submission link will be posted soon.
+Contributions should be blinded and submitted using the ICLR template via CMT.  
+(https://cmt3.research.microsoft.com/PML4DC2020)[https://cmt3.research.microsoft.com/PML4DC2020.].
 
 ## Important Dates
 
