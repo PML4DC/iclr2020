@@ -25,20 +25,7 @@ The workshop will be a full day event from 9:00 am - 6:15 pm. The tentative sche
 - 05:55 - 06:15 Awards and Closing Remarks
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 Each oral presentation will be 10 minutes followed by 5 minutes for Q/A, each invited speaker presentation will be 25 minutes followed by 10 minutes for Q/A for increased discussion. Since, the idea is to bring a diverse group of participants to discuss practical issues of implementing ML for developing countries, we specifically added a panel discussion focused on the topic with panelists from representatives of policy makers, researchers, industry experts, and other stakeholders.

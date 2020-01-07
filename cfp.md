@@ -36,7 +36,7 @@ Constraints introduced by low resource environments such as developing countries
 
 ### Submission Format
 Contributions should be blinded and submitted using the ICLR template via CMT.  
-(https://cmt3.research.microsoft.com/PML4DC2020)[https://cmt3.research.microsoft.com/PML4DC2020.].
+[https://cmt3.research.microsoft.com/PML4DC2020](https://cmt3.research.microsoft.com/PML4DC2020).
 
 ## Important Dates
 
