@@ -1,27 +1,28 @@
 ## Topics
 
-Constraints introduced by low resource environments inspire new approaches to conventional ML problems. We encourage papers that address (but are not limited to) the following topics. 
+Constraints introduced by low resource environments such as developing countries can  necessitate alternative approaches to conventional ML problems. We encourage papers that address (but are not limited to) the following topic areas. 
 
 ### Methods 
 
-- Methods used to ​collecting and generating training data within data scare settings.
+- Methods for ​collecting and generating training data within data scare settings.
 - Machine learning techniques applied to limited data (e.g. active learning, few-shot and zero-shot learning).
 - Approaches to training and inference on resource constrained devices (model quantization, model compression, model distillation, low precision training).
-- Alternative learning methods coupled with deep models targeted for low resources
+- Alternative learning methods coupled with deep models targeted for low resources settings.
 
 
 ### Industry Experience and Applications
 
 - Data science and engineering practices that help balance accuracy/latency tradeoffs while scaling ML models in low resource environments.
 - Measuring success or impact that goes beyond algorithmic metrics (such as accuracy or F1 score).
-- Data-driven techniques that support  public institutions (government transparency, healthcare etc).
+- Data-driven techniques that support public institutions (government transparency, healthcare, education etc).
 
 ### Viewpoints and Industry Experience
-- When machine learning is not a viable option.
+
 - Successful AI solution implementation stories that work at a small scale (e.g. local institution, city) that could be applied at larger scale.
 - Connecting skilled professionals with the organizations that deeply understand the local problems.
 - Securing funding for proof-of-concept (POC) projects or for scaling existing POCs.
 - Building effective research and implementation teams, with a focus on challenges specific to developing regions such as countries in Africa.
+- When machine learning is not a viable option.
 
 
 
