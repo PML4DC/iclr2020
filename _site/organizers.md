@@ -2,7 +2,7 @@
 
 ## Organizers and Program Committee
 
-## Organizers
+## Organizers {{ site.baseurl }}
 
 <div>
     <div class="iblock headshotbox "> 
