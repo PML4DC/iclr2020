@@ -1,6 +1,6 @@
 ## Topics
 
-Constraints introduced by low resource environments such as developing countries can  necessitate alternative approaches to conventional ML problems. We encourage papers that address (but are not limited to) the following topic areas. 
+Constraints introduced by low resource environments such as developing countries (Africa, South East Asia, South America etc) can  necessitate alternative approaches to conventional ML problems. We encourage papers that address (but are not limited to) the following topic areas. 
 
 ### Methods 
 
@@ -16,7 +16,7 @@ Constraints introduced by low resource environments such as developing countries
 - Measuring success or impact that goes beyond algorithmic metrics (such as accuracy or F1 score).
 - Data-driven techniques that support public institutions (government transparency, healthcare, education etc).
 
-### Viewpoints and Industry Experience
+### Viewpoints 
 
 - Successful AI solution implementation stories which work at a small scale (e.g. local institution, city) that could be applied at larger scale.
 - Connecting skilled professionals with the organizations that deeply understand the local problems.
