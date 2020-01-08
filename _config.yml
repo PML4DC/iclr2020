@@ -1,2 +1,16 @@
 theme: jekyll-theme-cayman
-description: "Practical ML for Developing Countries, ICLR 2020"
+description: "Practical ML for Developing Countries Workshop @ ICLR 2020"
+basepath: "iclr2020/"
+
+
+navigation:
+- text: HOME
+  url: /
+- text: CALL FOR PAPERS
+  url: /cfp.html
+- text: DATES
+  url: /dates.html
+  layout: project
+- text: PROGRAM
+  url: /program.html
+  layout: post

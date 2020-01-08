@@ -4,9 +4,66 @@
 // $header-bg-color-secondary: #159957;
 // $header-bg-color: #155799;
 
-.page-header{
+body{
+    color: #2e2d2d;
+}
+.headerbox{
     // border: 3px solid blue ;
-    background-image: url("/iclr2020/images/banner.jpg");
+    background-image: url("../../images/banner2.jpg");
+    background-size: cover;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-color: #251E20;
+}
+
+.headercontent{  
+    height: 100%;
+    color: #2e2d2d;
+}
+
+.centermiddle{
+    margin: auto;
+    max-width: 950px;
+    padding: 0px 20px 0px 20px;
+    color: #2e2d2d;
+}
+.maintopic{
+    display: inline-block;
+     
+    padding: 30px 0px 3px 0px;
+    font-size: 3em;
+    font-weight: bold; 
+    border-bottom: 1px solid #251E20; 
+}
+.subtopic{
+    padding: 5px 0px 0px 0px;
+}
+.border{
+    border: 2px solid black;
+}
+.navtop{
+    height: 3px;
+    background-color: #1C8BE2;
+}
+.navbar{
+
+}
+.navbutton{
+    display: inline-block;
+    margin: 0px;
+    // border: 1px solid green; 
+    padding: 10px 20px 10px 10px;
+    transition: background-color 0.5s ease;
+    text-decoration: none;
+}
+.navbutton:hover{
+    background-color:  #1C8BE2;
+    text-decoration: none;
+    color: white;
+}
+.navactive{
+    background-color: #1C8BE2;
+    color: white;
 }
 
 @import "{{ site.theme }}";
