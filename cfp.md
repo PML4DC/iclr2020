@@ -29,10 +29,10 @@ Constraints introduced by low resource environments such as developing countries
 ## Instructions
 
 ### Submission types
-- Short papers and position pieces (4 pages)
-- Problem statements and abstracts (1 page)
+- Short papers and position pieces (up to 5 pages)
+- Problem statements and abstracts (up to 2 page)
 
-4-page submissions will be eligible for oral or poster presentation. One page submissions will be presented as posters.
+5-page submissions will be _eligible_ for oral or poster presentation. 2-page submissions will be presented as posters.
 
 ### Submission Format
 Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip) via CMT.  
