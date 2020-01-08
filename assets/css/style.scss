@@ -5,7 +5,8 @@ $header-bg-color-secondary: #159957;
 $header-bg-color: #155799;
 
 .page-header{
-    border: 3px solid blue
+    border: 3px solid blue ;
+    background-image: url("/iclr2020/images/banner.jpg");
 }
 
 @import "{{ site.theme }}";
