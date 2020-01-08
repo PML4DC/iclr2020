@@ -2,7 +2,7 @@
 
 ## Organizers and Program Committee
 
-## Organizers {{ site.baseurl }}
+## Organizers  
 
         {% if jekyll.environment  == "production" %}
         {% assign basepath = "/iclr2020" %}
