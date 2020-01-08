@@ -55,7 +55,7 @@
             {% endif %}
 
 
-            <a class="{{ current| append: ' navbutton' }}" href="{{ link.url }}">{{ link.text }}</a>
+            <a class="{{ current| append: ' navbutton' }}" href="{{ link.url | prepend: basepath }}">{{ link.text }}</a>
 
             {% endfor %}
         </div>
