@@ -1,5 +1,11 @@
 ##  PML4DC @ ICLR 2020
 
+{% if jekyll.environment  == "production" %}
+        {% assign basepath = "/iclr2020" %}
+        {%else%}
+        {% assign basepath = "" %}
+        {% endif %}
+
 <!-- ## Practical ML for Developing Countries: learning under limited/low resource scenarios -->
 
 ### Practical ML for Developing Countries: learning under limited/low resource scenarios
@@ -13,19 +19,19 @@ challenges of learning under limited or low resource environments that are typic
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="/images/speakers/jake.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/jake.jpg" class="headshot">
         <div class="headshotname"> Jake Porway </div>
         <a href="#" class="headshotaffiliation"> (DataKind, Founder & Exec Director, NY, USA, confirmed) </a>
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="/images/speakers/aisha.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/aisha.jpg" class="headshot">
         <div class="headshotname"> Aisha Walcott Bryant  </div>
         <a href="#" class="headshotaffiliation"> IBM Research Africa  </a>
     </div>
 
      <div class="iblock headshotbox "> 
-        <img src="/images/speakers/david.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/david.jpg" class="headshot">
         <div class="headshotname"> 
             <div> David Sengeh </div>
           <a href="#" class="headshotaffiliation"> (CIO of DST&I, Sierra Leone, confirmed) </a>
@@ -35,7 +41,7 @@ challenges of learning under limited or low resource environments that are typic
     </div>
 
      <div class="iblock headshotbox "> 
-        <img src="/images/speakers/sara.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/sara.jpg" class="headshot">
         <div class="headshotname"> Sara Hooker </div>
         <a href="#" class="headshotaffiliation"> Google Brain and Delta Analytics, CA, USA, confirmed) </a>
     </div> 
