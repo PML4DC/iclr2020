@@ -35,7 +35,7 @@ Constraints introduced by low resource environments such as developing countries
 4-page submissions will be eligible for oral or poster presentation. One page submissions will be presented as posters.
 
 ### Submission Format
-Contributions should be blinded and submitted using the ICLR template via CMT.  
+Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip) via CMT.  
 [https://cmt3.research.microsoft.com/PML4DC2020](https://cmt3.research.microsoft.com/PML4DC2020).
 
 ## Important Dates
