@@ -11,6 +11,37 @@ challenges of learning under limited or low resource environments that are typic
 
 ## Keynote Speakers
 
+<div>
+    <div class="iblock headshotbox "> 
+        <img src="/images/speakers/jake.jpg" class="headshot">
+        <div class="headshotname"> Jake Porway </div>
+        <a href="#" class="headshotaffiliation"> (DataKind, Founder & Exec Director, NY, USA, confirmed) </a>
+    </div>
+
+    <div class="iblock headshotbox "> 
+        <img src="/images/speakers/aisha.jpg" class="headshot">
+        <div class="headshotname"> Aisha Walcott Bryant  </div>
+        <a href="#" class="headshotaffiliation"> IBM Research Africa  </a>
+    </div>
+
+     <div class="iblock headshotbox "> 
+        <img src="/images/speakers/david.jpg" class="headshot">
+        <div class="headshotname"> 
+            <div> David Sengeh </div>
+          <a href="#" class="headshotaffiliation"> (CIO of DST&I, Sierra Leone, confirmed) </a>
+       
+        </div>
+      
+    </div>
+
+     <div class="iblock headshotbox "> 
+        <img src="/images/speakers/sara.jpg" class="headshot">
+        <div class="headshotname"> Sara Hooker </div>
+        <a href="#" class="headshotaffiliation"> Google Brain and Delta Analytics, CA, USA, confirmed) </a>
+    </div> 
+</div>
+
+
 - Jake Porway (DataKind, Founder & Exec Director, NY, USA, confirmed)
 - Aisha Walcott Bryant (IBM, Research Scientist, Kenya, confirmed)
 - David Sengeh (CIO of DST&I, Sierra Leone, confirmed)

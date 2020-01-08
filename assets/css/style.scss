@@ -15,7 +15,9 @@ body{
     background-repeat: no-repeat;
     background-color: #1C8BE2;
 }
-
+.iblock{
+    display: inline-block;
+}
 .headercontent{  
     height: 100%;
     color: #2e2d2d;
@@ -33,7 +35,7 @@ body{
     padding: 30px 0px 3px 0px;
     font-size: 3em;
     font-weight: bold; 
-    border-bottom: 1px solid #251E20; 
+    // border-bottom: 1px solid #251E20; 
 }
 .subtopic{
     padding: 5px 0px 0px 0px;
@@ -64,6 +66,34 @@ body{
 .navactive{
     background-color: #1C8BE2;
     color: white;
+}
+
+.headshotbox{
+    margin: 10px 15px 0px 0px;
+    max-width: 210px;
+    // height: 300px;
+    // border: 1px solid black;
+    // display: flex;
+    vertical-align:top;
+}
+.headshot{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display:block;
+    border-radius: 4px;
+}
+.headshotname{
+    margin: 5px 0px 0px 0px;
+}
+.headshotaffiliation{ 
+  
+   color: #1C8BE2;
+   cursor: text;
+}
+
+.headshotaffiliation:hover{
+    text-decoration: none;
 }
 
 @import "{{ site.theme }}";

@@ -14,3 +14,5 @@ navigation:
 - text: PROGRAM
   url: /program.html
   layout: post
+- text: ORGANIZERS
+  url: /organizers.html  

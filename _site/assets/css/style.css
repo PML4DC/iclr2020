@@ -3,11 +3,13 @@ body { color: #2e2d2d; }
 
 .headerbox { background-image: url("../../images/banner2.jpg"); background-size: cover; height: 300px; background-repeat: no-repeat; background-color: #1C8BE2; }
 
+.iblock { display: inline-block; }
+
 .headercontent { height: 100%; color: #2e2d2d; }
 
 .centermiddle { margin: auto; max-width: 950px; padding: 0px 20px 0px 20px; color: #2e2d2d; }
 
-.maintopic { display: inline-block; padding: 30px 0px 3px 0px; font-size: 3em; font-weight: bold; border-bottom: 1px solid #251E20; }
+.maintopic { display: inline-block; padding: 30px 0px 3px 0px; font-size: 3em; font-weight: bold; }
 
 .subtopic { padding: 5px 0px 0px 0px; }
 
@@ -20,6 +22,16 @@ body { color: #2e2d2d; }
 .navbutton:hover { background-color: #1C8BE2; text-decoration: none; color: white; }
 
 .navactive { background-color: #1C8BE2; color: white; }
+
+.headshotbox { margin: 10px 15px 0px 0px; max-width: 210px; vertical-align: top; }
+
+.headshot { width: 200px; height: 200px; object-fit: cover; display: block; border-radius: 4px; }
+
+.headshotname { margin: 5px 0px 0px 0px; }
+
+.headshotaffiliation { color: #1C8BE2; cursor: text; }
+
+.headshotaffiliation:hover { text-decoration: none; }
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
