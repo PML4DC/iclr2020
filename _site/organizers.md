@@ -73,8 +73,8 @@
 
      <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/organizers/red.jpg" class="headshot">
-        <div class="headshotname"> Red Abebe</div>
-        <a href="#" class="headshotaffiliation"> Cornell University</a>
+        <div class="headshotname"> Rediet Abebe</div>
+        <a href="#" class="headshotaffiliation"> Harvard University</a>
     </div>
 
      <div class="iblock headshotbox "> 
