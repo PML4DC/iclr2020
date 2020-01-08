@@ -1,4 +1,4 @@
-##  PML4DC @ ICLR 2020
+##  PML4DC @ <a target='_blank' href='https://iclr.cc/'> ICLR 2020</a>
 
 {% if jekyll.environment  == "production" %}
         {% assign basepath = "/iclr2020" %}
@@ -52,6 +52,6 @@ challenges of learning under limited or low resource environments that are typic
 
 ### Commitment to Diversity
 
-We expect the workshop topic areas would attract a wide range of participants such as ML researchers, industry professionals, government stakeholders, policymakers, healthcare workers, social scientists, and educators. We believe the focus on practical solutions  for developing countries coincides well with the historic first time  a major machine learning conference is being held in Africa. This will help attract a large pool of local talent that are directly affected by the problem this workshop addresses. Moreover, this demographic is one of most underrepresented in the field of AI/ML. With most of the organizers of the workshop having previous experience in organizing diversity and inclusion workshops such as Black in AI and the Deep Learning Indaba, utmost effort has been  made to attract a diverse (gender, geography, background) group of presenters and participants.
+We expect the workshop topic areas would attract a wide range of participants such as ML researchers, industry professionals, government stakeholders, policymakers, healthcare workers, social scientists, and educators. We believe the focus on practical solutions  for developing countries coincides well with the historic first time  a major machine learning conference is being held in Africa. This will help attract a large pool of local talent that are directly affected by the problem this workshop addresses. With most of the organizers of the workshop having previous experience in organizing diversity and inclusion workshops such as Black in AI and the Deep Learning Indaba, utmost effort has been  made to attract a diverse (gender, geography, background) group of presenters and participants.
 
  
