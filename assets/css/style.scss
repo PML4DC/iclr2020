@@ -98,5 +98,51 @@ body{
 .headshotaffiliation:hover{
     text-decoration: none;
 }
+table {
+    width: 100%;
+    max-width: 50rem;
+    color: #fff;
+}
+table th {
+    color: #000;
+}
+table th,
+table td {
+    padding: 0.5rem 1rem;
+}
+table th {
+    font-weight: normal;
+}
+table td {
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    border-radius: 0.2rem;
+    transition: opacity 0.3s ease;
+}
+table td > span {
+    font-size: 0.8em;
+    font-weight: normal;
+    display: block;
+    width: 100%;
+}
+.contributed-talk {
+    background-color: #9750a1;
+}
+.welcome-remarks {
+    background-color: #6778d0;
+}
+.panel {
+    background-color: #ba496b;
+}
+.awards {
+    background-color: #ba6337;
+}
+.break {
+    background-color: #50b47b;
+}
+.invited {
+      background-color: #98a441;
+}
 
 @import "{{ site.theme }}";
