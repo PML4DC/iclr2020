@@ -32,12 +32,13 @@
         <div class="headerbox ">
             <header class="headercontent centermiddle " role="banner">
 
-                <div class="maintopic">
-                    {{ page.title | default: site.title | default: site.github.repository_name }}
-                </div>
                 <div class="subtopic">
                     {{ page.description | default: site.description | default: site.github.project_tagline }}
                 </div>
+                <div class="maintopic">
+                    {{ page.title | default: site.title | default: site.github.repository_name }}
+                </div>
+
 
 
 

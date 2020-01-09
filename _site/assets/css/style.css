@@ -9,9 +9,9 @@ body { color: #2e2d2d; }
 
 .centermiddle { margin: auto; max-width: 950px; padding: 0px 20px 0px 20px; color: #2e2d2d; }
 
-.maintopic { display: inline-block; text-transform: uppercase; padding: 25px 0px 3px 0px; font-size: 2.5em; font-weight: bold; }
+.maintopic { display: inline-block; text-transform: uppercase; padding: 0px 0px 3px 0px; font-size: 2.5em; font-weight: bold; }
 
-.subtopic { padding: 5px 0px 0px 0px; font-size: 1.3em; text-shadow: 1px 1px #50505081; }
+.subtopic { padding: 20px 0px 0px 0px; font-size: 1.3em; text-shadow: 1px 1px #50505015; }
 
 .border { border: 2px solid black; }
 
