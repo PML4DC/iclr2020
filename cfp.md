@@ -1,4 +1,4 @@
-## Topics
+## Call For Papers
 
 Constraints introduced by low resource environments such as developing countries (Africa, South East Asia, South America etc) can  necessitate alternative approaches to conventional ML problems. We encourage papers that address (but are not limited to) the following topic areas. 
 

@@ -31,15 +31,17 @@ body{
 }
 .maintopic{
     display: inline-block;
+    text-transform: uppercase;
      
     padding: 25px 0px 3px 0px;
-    font-size: 3em;
+    font-size: 2.5em;
     font-weight: bold; 
     // border-bottom: 1px solid #251E20; 
 }
 .subtopic{
     padding: 5px 0px 0px 0px;
     font-size: 1.3em;
+    text-shadow: 1px 1px #50505081;
 }
 .border{
     border: 2px solid black;
