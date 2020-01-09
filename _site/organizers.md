@@ -54,7 +54,7 @@
         <a href="#" class="headshotaffiliation"> Addis Ababa University </a>
     </div>
      <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/organizers/person.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/meareg.jpg" class="headshot">
         <div class="headshotname"> Meareg Hailemariam </div>
         <a href="#" class="headshotaffiliation"> Addis Ababa University </a>
     </div>
