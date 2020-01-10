@@ -29,9 +29,7 @@ body { color: #2e2d2d; }
 
 .headshotname { margin: 5px 0px 0px 0px; }
 
-.headshotaffiliation { color: #1C8BE2; cursor: text; }
-
-.headshotaffiliation:hover { text-decoration: none; }
+.headshotaffiliation { color: #1C8BE2; }
 
 table { width: 100%; max-width: 50rem; color: #fff; }
 
