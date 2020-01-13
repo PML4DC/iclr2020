@@ -117,7 +117,6 @@ table td {
     font-size: 1rem;
     font-weight: bold;
     line-height: 1.4;
-    border-radius: 0.2rem;
     transition: opacity 0.3s ease;
 }
 table td > span {
@@ -127,22 +126,22 @@ table td > span {
     width: 100%;
 }
 .contributed-talk {
-    background-color: #9750a1;
+    background-color: #1F9EFF;
 }
 .welcome-remarks {
-    background-color: #6778d0;
+    background-color: #1C8BE2;
 }
 .panel {
-    background-color: #ba496b;
+    background-color: #187ECC;
 }
 .awards {
-    background-color: #ba6337;
+    background-color: #1C8BE2;
 }
 .break {
-    background-color: #50b47b;
+    background-color: #365F80;
 }
 .invited {
-      background-color: #98a441;
+      background-color: #6BBFFF;
 }
 
 @import "{{ site.theme }}";
