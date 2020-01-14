@@ -39,21 +39,21 @@ table th, table td { padding: 0.5rem 1rem; }
 
 table th { font-weight: normal; }
 
-table td { font-size: 1rem; font-weight: bold; line-height: 1.4; border-radius: 0.2rem; transition: opacity 0.3s ease; }
+table td { font-size: 1rem; font-weight: bold; line-height: 1.4; transition: opacity 0.3s ease; }
 
 table td > span { font-size: 0.8em; font-weight: normal; display: block; width: 100%; }
 
-.contributed-talk { background-color: #9750a1; }
+.contributed-talk { background-color: #1F9EFF; }
 
-.welcome-remarks { background-color: #6778d0; }
+.welcome-remarks { background-color: #1C8BE2; }
 
-.panel { background-color: #ba496b; }
+.panel { background-color: #187ECC; }
 
-.awards { background-color: #ba6337; }
+.awards { background-color: #1C8BE2; }
 
-.break { background-color: #50b47b; }
+.break { background-color: #365F80; }
 
-.invited { background-color: #98a441; }
+.invited { background-color: #6BBFFF; }
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
