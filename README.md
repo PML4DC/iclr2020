@@ -19,31 +19,31 @@ challenges of learning under limited or low resource environments that are typic
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/jake.jpg" class="headshot">
-        <div class="headshotname"> Jake Porway </div>
-        <a href="#" class="headshotaffiliation"> DataKind, Founder & Exec Director, NY, USA  </a>
+        <img src="{{basepath}}/images/organizers/person.jpg" class="headshot">
+        <div class="headshotname"> Invited Speaker 1 </div>
+        <!-- <a href="#" class="headshotaffiliation"> DataKind, Founder & Exec Director, NY, USA  </a>-->
     </div>
-
+        
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/aisha.jpg" class="headshot">
-        <div class="headshotname"> Aisha Walcott Bryant  </div>
-        <a href="#" class="headshotaffiliation"> IBM Research Africa  </a>
+        <img src="{{basepath}}/images/organizers/person.jpg" class="headshot">
+        <div class="headshotname"> Invited Speaker 2  </div>
+        <!--<a href="#" class="headshotaffiliation"> IBM Research Africa  </a> -->
     </div>
 
      <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/david.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/person.jpg" class="headshot">
         <div class="headshotname"> 
-            <div> David Sengeh </div>
-          <a href="#" class="headshotaffiliation"> CIO of DST&I, Sierra Leone  </a>
+            <div> Invited Speaker 3 </div>
+         <!-- <a href="#" class="headshotaffiliation"> CIO of DST&I, Sierra Leone  </a> -->
        
         </div>
       
     </div>
 
      <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/sara.jpg" class="headshot">
-        <div class="headshotname"> Sara Hooker </div>
-        <a href="#" class="headshotaffiliation"> Google Brain and Delta Analytics, CA, USA  </a>
+        <img src="{{basepath}}/images/organizers/person.jpg" class="headshot">
+        <div class="headshotname"> Invited Speaker 4 </div>
+       <!-- <a href="#" class="headshotaffiliation"> Google Brain and Delta Analytics, CA, USA  </a> -->
     </div> 
 </div>
 
