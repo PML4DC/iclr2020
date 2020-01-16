@@ -11,6 +11,7 @@ body { color: #2e2d2d; }
 
 .maintopic { display: inline-block; text-transform: uppercase; padding: 0px 0px 3px 0px; font-size: 2.5em; font-weight: bold; }
 
+@media (max-width: 800px) { .maintopic { font-size: 1.8em; } }
 .subtopic { padding: 20px 0px 0px 0px; font-size: 1.3em; text-shadow: 1px 1px #50505015; }
 
 .border { border: 2px solid black; }

@@ -38,6 +38,9 @@ body{
     font-weight: bold; 
     // border-bottom: 1px solid #251E20; 
 }
+@media (max-width: 800px) {
+    .maintopic { font-size: 1.8em; } 
+}
 .subtopic{
     padding: 20px 0px 0px 0px;
     font-size: 1.3em;
