@@ -35,7 +35,7 @@ Constraints introduced by low resource environments such as developing countries
 ### Submission Format
 Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip){:target="_blank" rel="noopener"} via CMT.  
 [https://cmt3.research.microsoft.com/PML4DC2020](https://cmt3.research.microsoft.com/PML4DC2020).
-Ongoing work and papers that have appeared in an non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2019 or 2020. Please note that submissions are non-archival.
+Ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2019 or 2020. Please note that submissions are non-archival.
 
 ## Important Dates
 
