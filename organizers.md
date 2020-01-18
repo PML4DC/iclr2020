@@ -113,5 +113,6 @@
 
 ## Program Committee
 
-- Details coming soon!
+- Geoffrey Siwo (University of Notre Dame)
+- Kush Varshney (IBM Research)
 
