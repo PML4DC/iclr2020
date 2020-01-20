@@ -62,7 +62,7 @@
     </div>
      <div class="iblock headshotbox "> 
      <a  target='_blank'  href="https://www.linkedin.com/in/tewodros-abebe-gebreselassie-a7739772/">
-        <img src="{{basepath}}/images/organizers/person.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/tewodros.jpg" class="headshot">
       </a>
         <div class="headshotname"> Tewodoros Gebreselassie </div>
         <a href="https://www.linkedin.com/in/tewodros-abebe-gebreselassie-a7739772/"  target='_blank' class="headshotaffiliation"> Addis Ababa University </a>
@@ -77,7 +77,7 @@
 
     <div class="iblock headshotbox">
     <a   target='_blank' href="https://www.linkedin.com/in/michaelmelese/">
-        <img src="{{basepath}}/images/organizers/person.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/michael.jpg" class="headshot">
        </a>
         <div class="headshotname"> Michael Melese </div>
         <a href="https://www.linkedin.com/in/michaelmelese/"  target='_blank' class="headshotaffiliation">Addis Ababa University </a>
