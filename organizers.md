@@ -134,3 +134,8 @@
 | Michael Lomnitz |Lab41 |
 | David Barret |Deepmind |
 | Nenad Tomasev |Deepmind |
+
+
+## Contact
+
+Have questions about the conference? Email us at pml4dc [at] gmail [dot] com
