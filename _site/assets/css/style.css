@@ -32,17 +32,19 @@ body { color: #2e2d2d; }
 
 .headshotaffiliation { color: #1C8BE2; }
 
-table { width: 100%; max-width: 50rem; color: #fff; }
+table { padding: 0; }
 
-table th { color: #000; }
+table tr { border-top: 1px solid #cccccc; background-color: white; margin: 0; padding: 0; }
 
-table th, table td { padding: 0.5rem 1rem; }
+table tr:nth-child(2n) { background-color: #f8f8f8; }
 
-table th { font-weight: normal; }
+table tr th { font-weight: bold; border: 1px solid #cccccc; text-align: left; margin: 0; padding: 6px 13px; }
 
-table td { font-size: 1rem; font-weight: bold; line-height: 1.4; transition: opacity 0.3s ease; }
+table tr td { border: 1px solid #cccccc; text-align: left; margin: 0; padding: 6px 13px; }
 
-table td > span { font-size: 0.8em; font-weight: normal; display: block; width: 100%; }
+table tr th :first-child, table tr td :first-child { margin-top: 0; }
+
+table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
 
 .contributed-talk { background-color: #1F9EFF; }
 

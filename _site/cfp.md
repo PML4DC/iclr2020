@@ -30,7 +30,7 @@ Constraints introduced by low resource environments such as developing countries
 - Short papers and position pieces (up to 5 pages)
 - Problem statements and abstracts (up to 2 page)
 
-5-page submissions will be _eligible_ for oral or poster presentation. 2-page submissions will be presented as posters.
+5-page submissions will be _eligible_ for oral or poster presentation. 2-page submissions will be presented as posters. Page limit applies to content only, excluding references.
 
 ### Submission Format
 Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip){:target="_blank" rel="noopener"} via CMT.  
