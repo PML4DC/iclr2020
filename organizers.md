@@ -114,25 +114,25 @@
 ## Program Committee
 
 |    Member        |Institute/Company |
-|------------------|------------------|
+------------------|------------------
 
-|Geoffrey Siwo |University of Notre Dame|
-|Kush Varshney |IBM Research|
-|Ramya Raghavendra |IBM Research|
-|Bianca Zadrozny |IBM Research|
-|Yoshua Bengio |MILA|
-|Oluwafunmilola Kesa |Warwick|
-|Samy Bengio |Google AI|
-|Daniel Nkemelu |Georgia Tech|
-|Flora Tasse |Slerio|
-|Thomas Jones |In-Q-Tel|
-|Judy Wawira |Emory|
-|Stephen Fashoto |University of Swaziland|
-|Kris Sankaran |MILA|
-|Ed Lawson |NRL|
-|Ignatius Ezeani |Lancaster University|
-|Vishal Sandesara |Lab41|
-|Michael Lomnitz |Lab41|
-|David Barret |Deepmind|
-|Nenad Tomasev |Deepmind|
+Geoffrey Siwo |University of Notre Dame
+Kush Varshney |IBM Research
+Ramya Raghavendra |IBM Research
+Bianca Zadrozny |IBM Research
+Yoshua Bengio |MILA
+Oluwafunmilola Kesa |Warwick
+Samy Bengio |Google AI
+Daniel Nkemelu |Georgia Tech
+Flora Tasse |Slerio
+Thomas Jones |In-Q-Tel
+Judy Wawira |Emory
+Stephen Fashoto |University of Swaziland
+Kris Sankaran |MILA
+Ed Lawson |NRL
+Ignatius Ezeani |Lancaster University
+Vishal Sandesara |Lab41
+Michael Lomnitz |Lab41
+David Barret |Deepmind
+Nenad Tomasev |Deepmind
 
