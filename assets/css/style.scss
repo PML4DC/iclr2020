@@ -38,6 +38,9 @@ body{
     font-weight: bold; 
     // border-bottom: 1px solid #251E20; 
 }
+@media (max-width: 800px) {
+    .maintopic { font-size: 1.8em; } 
+}
 .subtopic{
     padding: 20px 0px 0px 0px;
     font-size: 1.3em;
@@ -92,57 +95,60 @@ body{
 .headshotaffiliation{ 
   
    color: #1C8BE2;
-   cursor: text;
+//    cursor: text;
 }
 
 .headshotaffiliation:hover{
-    text-decoration: none;
+    // text-decoration: none;
 }
 table {
-    width: 100%;
-    max-width: 50rem;
-    color: #fff;
-}
-table th {
-    color: #000;
-}
-table th,
-table td {
-    padding: 0.5rem 1rem;
-}
-table th {
-    font-weight: normal;
-}
-table td {
-    font-size: 1rem;
-    font-weight: bold;
-    line-height: 1.4;
-    border-radius: 0.2rem;
-    transition: opacity 0.3s ease;
-}
-table td > span {
-    font-size: 0.8em;
-    font-weight: normal;
-    display: block;
-    width: 100%;
-}
+  padding: 0; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
 .contributed-talk {
-    background-color: #9750a1;
+    background-color: #1F9EFF;
 }
 .welcome-remarks {
-    background-color: #6778d0;
+    background-color: #1C8BE2;
 }
 .panel {
-    background-color: #ba496b;
+    background-color: #187ECC;
 }
 .awards {
-    background-color: #ba6337;
+    background-color: #1C8BE2;
 }
 .break {
-    background-color: #50b47b;
+    background-color: #365F80;
 }
 .invited {
-      background-color: #98a441;
+      background-color: #6BBFFF;
+}
+
+table{
+    width: 98%;
 }
 
 @import "{{ site.theme }}";
+
+

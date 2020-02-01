@@ -11,6 +11,7 @@ body { color: #2e2d2d; }
 
 .maintopic { display: inline-block; text-transform: uppercase; padding: 0px 0px 3px 0px; font-size: 2.5em; font-weight: bold; }
 
+@media (max-width: 800px) { .maintopic { font-size: 1.8em; } }
 .subtopic { padding: 20px 0px 0px 0px; font-size: 1.3em; text-shadow: 1px 1px #50505015; }
 
 .border { border: 2px solid black; }
@@ -29,33 +30,35 @@ body { color: #2e2d2d; }
 
 .headshotname { margin: 5px 0px 0px 0px; }
 
-.headshotaffiliation { color: #1C8BE2; cursor: text; }
+.headshotaffiliation { color: #1C8BE2; }
 
-.headshotaffiliation:hover { text-decoration: none; }
+table { padding: 0; }
 
-table { width: 100%; max-width: 50rem; color: #fff; }
+table tr { border-top: 1px solid #cccccc; background-color: white; margin: 0; padding: 0; }
 
-table th { color: #000; }
+table tr:nth-child(2n) { background-color: #f8f8f8; }
 
-table th, table td { padding: 0.5rem 1rem; }
+table tr th { font-weight: bold; border: 1px solid #cccccc; text-align: left; margin: 0; padding: 6px 13px; }
 
-table th { font-weight: normal; }
+table tr td { border: 1px solid #cccccc; text-align: left; margin: 0; padding: 6px 13px; }
 
-table td { font-size: 1rem; font-weight: bold; line-height: 1.4; border-radius: 0.2rem; transition: opacity 0.3s ease; }
+table tr th :first-child, table tr td :first-child { margin-top: 0; }
 
-table td > span { font-size: 0.8em; font-weight: normal; display: block; width: 100%; }
+table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
 
-.contributed-talk { background-color: #9750a1; }
+.contributed-talk { background-color: #1F9EFF; }
 
-.welcome-remarks { background-color: #6778d0; }
+.welcome-remarks { background-color: #1C8BE2; }
 
-.panel { background-color: #ba496b; }
+.panel { background-color: #187ECC; }
 
-.awards { background-color: #ba6337; }
+.awards { background-color: #1C8BE2; }
 
-.break { background-color: #50b47b; }
+.break { background-color: #365F80; }
 
-.invited { background-color: #98a441; }
+.invited { background-color: #6BBFFF; }
+
+table { width: 98%; }
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */

@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 description: "Practical ML for Developing Countries Workshop @ ICLR 2020, 
     <br/> Learning under limited/low resource scenarios.  Addis Ababa, Ethiopia"
 basepath: "iclr2020/"
-
+google_analytics: UA-156425047-1
 
 navigation:
 - text: HOME
