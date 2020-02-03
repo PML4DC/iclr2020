@@ -17,24 +17,21 @@ challenges of learning under limited or low resource environments that are typic
 ## Keynote Speakers
 
 <div>
-    <div class="iblock headshotbox "> 
+    <div class="iblock headshotbox"> 
         <img src="{{basepath}}/images/organizers/jadeabbott.jpg" class="headshot">
         <div class="headshotname"> Jade Abbott </div>
             <a href="https://retrorabbit.co.za/" class="headshotaffiliation"> Retro Rabbit, South Africa</a>
     </div>
-        
-    <div class="iblock headshotbox "> 
+    <div class="iblock headshotbox"> 
         <img src="{{basepath}}/images/organizers/kommywoldemariam.jpg" class="headshot">
         <div class="headshotname"> Kommy Woldemariam </div>
         <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ke-k.weldemariam" class="headshotaffiliation"> IBM Research Africa</a> 
     </div>
-    
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/organizers/geoffreysiwo.jpg" class="headshot">
         <div class="headshotname"> Geoffery Siwo </div>
          <a href="https://biology.nd.edu/people/geoffrey-siwo/" class="headshotaffiliation">University of Notre Dame, IN, USA </a>
-    </div>
-
+        </div>
      <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/organizers/johnalexis.jpg" class="headshot">
         <div class="headshotname"> John Alexis Guerra Gómez</div>
