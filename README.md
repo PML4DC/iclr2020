@@ -28,7 +28,7 @@ challenges of learning under limited or low resource environments that are typic
         <div class="headshotname"> Invited Speaker 2  </div>
         <!--<a href="#" class="headshotaffiliation"> IBM Research Africa  </a> -->
     </div>
-
+    
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/organizers/person.jpg" class="headshot">
         <div class="headshotname"> Invited Speaker 3 </div>
