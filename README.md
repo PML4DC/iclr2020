@@ -18,11 +18,40 @@ challenges of learning under limited or low resource environments that are typic
 
 <div>
     <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/david.jpg" class="headshot">
+        <div class="headshotname"> David Sengeh </div>
+            <a href="https://www.linkedin.com/in/davidsengeh/" class="headshotaffiliation"> Ministry Of Basic and Senior Secondary Education, Sierra Leone</a>
+    </div>
+        
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/karmelallison.jpg" class="headshot">
+        <div class="headshotname"> Karmel Allison </div>
+        <a href="https://www.linkedin.com/in/karmel/" class="headshotaffiliation"> Google, Santa Monica, CA, USA</a> 
+    </div>
+    
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/negar.jpg" class="headshot">
+        <div class="headshotname"> Negar Rostamzadeh </div>
+         <a href="https://www.linkedin.com/in/nrostamzadeh/?originalSubdomain=ca" class="headshotaffiliation">Element AI, Montreal, QC, Canada </a>
+    </div>
+
+     <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/johnalexis.jpg" class="headshot">
+        <div class="headshotname"> John Alexis Guerra Gómez</div>
+        <a href="https://www.ischool.berkeley.edu/people/john-alexis-guerra-gomez" class="headshotaffiliation"> UC Berkeley, CA, USA  </a> 
+    </div> 
+</div>
+
+
+## Panelists
+
+<div>
+    <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/jadeabbott.jpg" class="headshot">
         <div class="headshotname"> Jade Abbott </div>
             <a href="https://retrorabbit.co.za/" class="headshotaffiliation"> Retro Rabbit, South Africa</a>
     </div>
-        
+
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/kommywoldemariam.jpg" class="headshot">
         <div class="headshotname"> Kommy Woldemariam </div>
@@ -36,9 +65,9 @@ challenges of learning under limited or low resource environments that are typic
     </div>
 
      <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/johnalexis.jpg" class="headshot">
-        <div class="headshotname"> John Alexis Guerra Gómez</div>
-        <a href="https://www.ischool.berkeley.edu/people/john-alexis-guerra-gomez" class="headshotaffiliation"> UC Berkeley, CA, USA  </a> 
+        <img src="{{basepath}}/images/speakers/muthoni.jpg" class="headshot">
+        <div class="headshotname">Muthoni Wanyoike </div>
+        <a href="https://www.linkedin.com/in/muthoniwanyoike/?locale=de_DE" class="headshotaffiliation"> Instadeep, Kenya  </a> 
     </div> 
 </div>
 
