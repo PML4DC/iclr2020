@@ -23,11 +23,11 @@ challenges of learning under limited or low resource environments that are typic
             <a href="https://www.linkedin.com/in/davidsengeh/" class="headshotaffiliation"> Ministry Of Basic and Senior Secondary Education, Sierra Leone</a>
     </div>
         
-    <div class="iblock headshotbox "> 
+  <!--<div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/karmelallison.jpg" class="headshot">
         <div class="headshotname"> Karmel Allison </div>
         <a href="https://www.linkedin.com/in/karmel/" class="headshotaffiliation"> Google, Santa Monica, CA, USA</a> 
-    </div>
+    </div> -->
     
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/negar.jpg" class="headshot">
