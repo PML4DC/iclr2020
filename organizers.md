@@ -115,26 +115,27 @@
 
 | Name          | Company/Institute |
 | ------------- | ----------------- |
-| Geoffrey Siwo |University of Notre Dame |
-| Kush Varshney |IBM Research |
-| Ramya Raghavendra |IBM Research |
+| Adji Bousso	Dieng |Columbia University |
 | Bianca Zadrozny |IBM Research |
-| Yoshua Bengio |MILA |
-| Oluwafunmilola Kesa |Warwick |
-| Samy Bengio |Google AI |
 | Daniel Nkemelu |Georgia Tech |
-| Flora Tasse |Slerio |
-| Thomas Jones |In-Q-Tel |
-| Judy Wawira |Emory |
-| Stephen Fashoto |University of Swaziland |
-| Kris Sankaran |MILA |
-| Ed Lawson |NRL |
-| Ignatius Ezeani |Lancaster University |
-| Vishal Sandesara |Lab41 |
-| Michael Lomnitz |Lab41 |
 | David Barret |Deepmind |
+| Flora Tasse |Slerio |
+| Geoffrey Siwo |University of Notre Dame |
+| Ignatius Ezeani |Lancaster University |
+| Judy Wawira |Emory |
+| Kris Sankaran |MILA |
+| Kush Varshney |IBM Research |
+| Michael Lomnitz |IQT/Lab41 |
 | Nenad Tomasev |Deepmind |
-
+| Nina Lopatina |IQT/Lab41 |
+| Oluwafunmilola Kesa |Warwick |
+| Ramya Raghavendra |IBM Research |
+| Samy Bengio |Google AI |
+| Stephen Fashoto |University of Swaziland |
+| Thomas Jones |In-Q-Tel |
+| Vishal Sandesara |IQT/Lab41 |
+| Wallace E. Lawson |NRL |
+| Yoshua Bengio |MILA |
 
 ## Contact
 
