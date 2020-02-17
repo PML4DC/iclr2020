@@ -116,6 +116,7 @@
 | Name          | Company/Institute |
 | ------------- | ----------------- |
 | Adji Bousso Dieng |Columbia University |
+| Bernease Herman |University of Washington |
 | Bianca Zadrozny |IBM Research |
 | Bryan	Wilder  |Harvard University |
 | Charles Onu |McGill University |
@@ -161,6 +162,7 @@
 | Stephen Fashoto |University of Swaziland |
 | Tejumade Afonja |AI Saturdays Lagos |
 | Thomas Jones |In-Q-Tel |
+| Victor Dibia |Cloudera Fast Forward Labs |
 | Victor Silva |University Alberta |
 | Vishal Sandesara |IQT - Lab41 |
 | Wallace E. Lawson |NRL |
