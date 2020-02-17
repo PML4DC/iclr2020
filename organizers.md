@@ -115,27 +115,57 @@
 
 | Name          | Company/Institute |
 | ------------- | ----------------- |
-| Adji Bousso	Dieng |Columbia University |
+| Adji Bousso Dieng |Columbia University |
 | Bianca Zadrozny |IBM Research |
+| Bryan	Wilder  |Harvard University |
+| Charles Onu |McGill University |
+| Chinasa Okolo |Cornell University |
 | Daniel Nkemelu |Georgia Tech |
 | David Barret |Deepmind |
+| Deborah Raji |University of Toronto |
+| Ehi Nosakhare | |
+| Elaine Nsoesie |Boston University |
+| Emmanuel Johnson |University of Southern California |
+| Evan Rosenman | |
+| Ezinne Nwankwo |Duke University |
 | Flora Tasse |Slerio |
 | Geoffrey Siwo |University of Notre Dame |
 | Ignatius Ezeani |Lancaster University |
+| Irene	Chen |MIT |
+| Jack Hessel |Cornell University |
+| Jayson Salkey |TBC |
+| Joshua Gardner | |
 | Judy Wawira |Emory |
+| Julius Adebayo |MIT |
+| Kentaro Toyama | |
+| Keziah Naggita | |
+| Kianté Brantley |The University of Maryland College Park |
 | Kris Sankaran |MILA |
+| krystal Maughan |University of Vermont |
 | Kush Varshney |IBM Research |
-| Michael Lomnitz |IQT/Lab41 |
+| Melissa Woghiren |University of Alberta |
+| Michael Best | |
+| Michael Lomnitz |IQT - Lab41 |
+| Michael Melese |Addis Ababa University |
 | Nenad Tomasev |Deepmind |
-| Nina Lopatina |IQT/Lab41 |
+| Nina Lopatina |IQT - Lab41 |
 | Oluwafunmilola Kesa |Warwick |
+| Pablo Samuel Castro |Google |
+| Paidamoyo Chapfuwa |Duke University |
+| Raesetje Sefala |University of the Witwatersrand |
 | Ramya Raghavendra |IBM Research |
+| Ruth Fong |University of Oxford |
 | Samy Bengio |Google AI |
+| Sanmi Koyejo |Uinversity of Illinois|
+| Sileye Ba |Dailymotion |
 | Stephen Fashoto |University of Swaziland |
+| Tejumade Afonja |AI Saturdays Lagos |
 | Thomas Jones |In-Q-Tel |
-| Vishal Sandesara |IQT/Lab41 |
+| Victor Silva |University Alberta |
+| Vishal Sandesara |IQT - Lab41 |
 | Wallace E. Lawson |NRL |
 | Yoshua Bengio |MILA |
+| Zanele Munyikwa |MIT Sloan School of Management |
 
 ## Contact
 
