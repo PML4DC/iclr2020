@@ -3,7 +3,7 @@
 ## Important Dates
 
 - Submissions deadline:         **February 14, 2020**
-- Notification:                 February 25, 2020
+- Notification:                 February 27, 2020
 - Camera ready:                 March 15, 2020
 - Workshop:                     April 26th, 2020
 
