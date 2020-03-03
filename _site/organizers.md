@@ -115,26 +115,59 @@
 
 | Name          | Company/Institute |
 | ------------- | ----------------- |
-| Geoffrey Siwo |University of Notre Dame |
-| Kush Varshney |IBM Research |
-| Ramya Raghavendra |IBM Research |
+| Adji Bousso Dieng |Columbia University |
+| Bernease Herman |University of Washington |
 | Bianca Zadrozny |IBM Research |
-| Yoshua Bengio |MILA |
-| Oluwafunmilola Kesa |Warwick |
-| Samy Bengio |Google AI |
+| Bryan	Wilder  |Harvard University |
+| Charles Onu |McGill University |
+| Chinasa Okolo |Cornell University |
 | Daniel Nkemelu |Georgia Tech |
-| Flora Tasse |Slerio |
-| Thomas Jones |In-Q-Tel |
-| Judy Wawira |Emory |
-| Stephen Fashoto |University of Swaziland |
-| Kris Sankaran |MILA |
-| Ed Lawson |NRL |
-| Ignatius Ezeani |Lancaster University |
-| Vishal Sandesara |Lab41 |
-| Michael Lomnitz |Lab41 |
 | David Barret |Deepmind |
+| Deborah Raji |University of Toronto |
+| Ehi Nosakhare | |
+| Elaine Nsoesie |Boston University |
+| Emmanuel Johnson |University of Southern California |
+| Evan Rosenman | |
+| Ezinne Nwankwo |Duke University |
+| Flora Tasse |Slerio |
+| Geoffrey Siwo |University of Notre Dame |
+| Ignatius Ezeani |Lancaster University |
+| Irene	Chen |MIT |
+| Jack Hessel |Cornell University |
+| Jayson Salkey |TBC |
+| Joshua Gardner | |
+| Judy Wawira |Emory |
+| Julius Adebayo |MIT |
+| Kentaro Toyama | |
+| Keziah Naggita | |
+| Kianté Brantley |The University of Maryland College Park |
+| Kris Sankaran |MILA |
+| krystal Maughan |University of Vermont |
+| Kush Varshney |IBM Research |
+| Melissa Woghiren |University of Alberta |
+| Michael Best | |
+| Michael Lomnitz |IQT - Lab41 |
+| Michael Melese |Addis Ababa University |
 | Nenad Tomasev |Deepmind |
-
+| Nina Lopatina |IQT - Lab41 |
+| Oluwafunmilola Kesa |Warwick |
+| Pablo Samuel Castro |Google |
+| Paidamoyo Chapfuwa |Duke University |
+| Raesetje Sefala |University of the Witwatersrand |
+| Ramya Raghavendra |IBM Research |
+| Ruth Fong |University of Oxford |
+| Samy Bengio |Google AI |
+| Sanmi Koyejo |Uinversity of Illinois|
+| Sileye Ba |Dailymotion |
+| Stephen Fashoto |University of Swaziland |
+| Tejumade Afonja |AI Saturdays Lagos |
+| Thomas Jones |In-Q-Tel |
+| Victor Dibia |Cloudera Fast Forward Labs |
+| Victor Silva |University Alberta |
+| Vishal Sandesara |IQT - Lab41 |
+| Wallace E. Lawson |NRL |
+| Yoshua Bengio |MILA |
+| Zanele Munyikwa |MIT Sloan School of Management |
 
 ## Contact
 

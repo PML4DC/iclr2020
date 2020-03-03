@@ -1,6 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
 body { color: #2e2d2d; }
 
+.update { padding: 10px; color: white; background-color: #1C8BE2; }
+
 .headerbox { background-image: url("../../images/banner2.jpg"); background-size: cover; height: 300px; background-repeat: no-repeat; background-color: #1C8BE2; }
 
 .iblock { display: inline-block; }
