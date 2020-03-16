@@ -3,6 +3,8 @@ body { color: #2e2d2d; }
 
 .update { padding: 10px; color: white; background-color: #1C8BE2; }
 
+.update a { color: white; text-decoration: underline; }
+
 .headerbox { background-image: url("../../images/banner2.jpg"); background-size: cover; height: 300px; background-repeat: no-repeat; background-color: #1C8BE2; }
 
 .iblock { display: inline-block; }
