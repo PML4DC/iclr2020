@@ -17,3 +17,5 @@ navigation:
   layout: post
 - text: ORGANIZERS
   url: /organizers.html  
+- text: VIRTUAL
+  url: /virtual.html
