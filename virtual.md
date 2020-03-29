@@ -1,2 +1,3 @@
-layout: page
-title: "Information About the Virtual Workshop"
+  layout: page
+  title: "Information About the Virtual Workshop"
+  permalink: /virtual/
