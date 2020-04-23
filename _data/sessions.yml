@@ -1,0 +1,254 @@
+- id: 1
+  papers:
+  - authors: Haben Yhdego (Old Dominion University)*
+    camera_ready: true
+    cmt_id: 50
+    id: 5
+    kind: oral
+    session: 1
+    title: Convolutional Neural Network for ECG-based Virtual Pathology Stethoscope Tracking in Patient Heart Auscultation
+    track: research
+  - authors: Sara Ebrahim (AIMS Rwanda)*; Kris Sankaran (Mila)
+    camera_ready: true
+    cmt_id: 11
+    id: 6
+    kind: oral
+    session: 1
+    title: LOW RESOURCE BREAST CANCER DETECTION WITH MAMMOGRAMS
+    track: research
+  - authors: Utku Evci (Google AI)*; Erich Elsen (DeepMind); Pablo Samuel Castro (Google); Jacob Menick (DeepMind); Trevor Gale (Google Brain)
+    camera_ready: true
+    cmt_id: 57
+    id: 7
+    kind: oral
+    session: 1
+    title: Rigging the Lottery - Making All Tickets Winners
+    track: research
+  - authors: Lukas Kondmann (German Aerospace Center)*; Xiaoxiang Zhu (Technical University of Munich (TUM); German Aerospace Center (DLR))
+    camera_ready: true
+    cmt_id: 46
+    id: 8
+    kind: oral
+    session: 1
+    title: Measuring Changes in Poverty with Deep Learning and Satellite Imagery
+    track: research
+  - authors: David Adelani (Saarland University); Michael Hedderich (Spoken Language Systems (LSV), Saarland University, Saarland Informatics Campus)*; Dawei Zhu (Saarland University); Esther van den Berg (Universität Heidelberg); Dietrich Klakow (Saarland University)
+    camera_ready: true
+    cmt_id: 4
+    id: 9
+    kind: oral
+    session: 1
+    title: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition - A Study on Hausa and Yorùbá
+    track: research
+  - authors: Michela Paganini (Facebook); Jessica Forde (Brown University)*
+    camera_ready: true
+    cmt_id: 6
+    id: 30
+    kind: poster
+    session: 1
+    title: On Iterative Neural Network Pruning, Reinitialization, and the Similarity of Masks
+    track: research
+  - authors: Daniel Jeffrey Wu (Stanford University)*; Avoy Datta (Stanford University); Vinay Uday Prabhu (UnifyID Inc)
+    camera_ready: true
+    cmt_id: 48
+    id: 32
+    kind: poster
+    session: 1
+    title: "BiPedalNet: Binarized Neural Networks for Resource-Constrained On-Device Gait Identification"
+    track: research
+  - authors: Daniel Jeffrey Wu (Stanford University)*; Andrew Chuming Yang (Stanford University); Vinay Uday Prabhu (UnifyID Inc)
+    camera_ready: true
+    cmt_id: 12
+    id: 34
+    kind: poster
+    session: 1
+    title: "Afro-MNIST: Synthetic generation of MNIST-style datasets for low-resource languages"
+    track: research
+  - authors: Martha Shaka (The University of Dodoma)*; Frederick Apina (University of Dodoma)
+    camera_ready: true
+    cmt_id: 41
+    id: 35
+    kind: poster
+    session: 1
+    title: Deep Learning Mobile Application Towards Malaria Diagnosis
+    track: research
+  - authors: Michael Leventhal (RobotsMali)*; Haby Sanou Diarra (Ministère de l'Enseignement Supérieur et de la Recherche Scientifique)
+    camera_ready: true
+    cmt_id: 40
+    id: 38
+    kind: poster
+    session: 1
+    title: Developing Machine Learning Competence in Africa in the Francophone Sahel Region
+    track: research
+  - authors: Hicham Hammouchi (International University of Rabat)*
+    camera_ready: true
+    cmt_id: 38
+    id: 40
+    kind: poster
+    session: 1
+    title: Lip Reading by Leveraging Hahn Convolutional Neural Network in Low-Resourced Environments
+    track: research
+  - authors: Ramon Vilarino (Experian DataLab LatAm)*; Renato Vicente (Experian DataLab LatAm and University of São Paulo)
+    camera_ready: true
+    cmt_id: 22
+    id: 41
+    kind: poster
+    session: 1
+    title: Location Information and Racial Biases in Credit Scoring
+    track: research
+  - authors: Kobby Panford-Quainoo (African Institute for Mathematical Sciences)*
+    camera_ready: true
+    cmt_id: 25
+    id: 42
+    kind: poster
+    session: 1
+    title: Bilateral Trade Modelling with Graph Neural Networks
+    track: research
+  - authors: Erick Diaz (Universidad San Carlos de Guatemala)*; Jorge Balsells (Universidad San Carlos de Guatemala); Allan Orozco (University of Costa Rica)
+    camera_ready: true
+    cmt_id: 53
+    id: 45
+    kind: poster
+    session: 1
+    title: Classification and Detection of Plasmodium Vivax Infected Cells in Blood Smears Images
+    track: research
+  - authors: Varoon Mathur (AI Now Institute)*; Judy Gichoya (Indiana University); Saptarshi Purkayastha (Indiana University Purdue University Indianapolis)
+    camera_ready: true
+    cmt_id: 15
+    id: 46
+    kind: poster
+    session: 1
+    title: "Artificial Intelligence for Global Health: Learning From a Decade of Digital Transformation in Health Care"
+    track: research
+  - authors: Muhammad Omer (Baylasan for Innovation)*; Moayad Elamin (Baylasan for Innovation); Ammar Khairi (University of Khartoum); Rami Ahmed (Baylasan for Innovation)
+    camera_ready: true
+    cmt_id: 15
+    id: 47
+    kind: poster
+    session: 1
+    title: "Modeling, Visualization, and Analysis of African Innovation Performance"
+    track: research
+  title: Session 1 (2-3pm GMT)
+- id: 2
+  papers:
+  - authors: José Cañete (Universidad de Chile); Gabriel Chaperon (Universidad de Chile)*; Rodrigo Fuentes (Universidad de Chile); Jorge Pérez (universidad de Chile)
+    camera_ready: true
+    cmt_id: 39
+    id: 10
+    kind: oral
+    session: 2
+    title: Spanish pre-trained BERT model and evaluation data
+    track: research
+  - authors: Udari Madhushani (Princeton University)*; Naomi Leonard (Princeton University)
+    camera_ready: true
+    cmt_id: 14
+    id: 11
+    kind: oral
+    session: 2
+    title: Distributed Learning - Sequential Decision Making in Resource-Constrained Environments
+    track: research
+  - authors: Michela Paganini (Facebook); Jessica Forde (Brown University)*
+    camera_ready: true
+    cmt_id: 7
+    id: 12
+    kind: oral
+    session: 2
+    title: Streamlining Tensor and Network Pruning in PyTorch
+    track: research
+  - authors: Gilbert Rukundo (Partners in Health)*; Elizabeth Miranda (Program in Global Surgery and Social Change, Harvard Medical School, Boston, MA); Andrea Goodman (Havard Medical School); Robert Riviello (Department of Global Health and Social Medicine, Harvard Medical School, Boston, MA); Fredrick Kateera (Partners in Health); Richard Redemske (Mobile Technology Lab, D-Lab, Massachusetts Institute of Technology, Boston, MA); Richard Fletcher (Massachusetts Institute of Technology); Bethany Hedt-Gauthier (Department of Global Health and Social Medicine, Harvard Medical School, Boston, MA)
+    camera_ready: false
+    cmt_id: 32
+    id: 13
+    kind: oral
+    session: 2
+    title: Standardizing image capture for machine learning algorithms in low-resource settings
+    track: research
+  - authors: Kehinde Aruleba University of the Witwatersrand); Abeba Birhane (UCD); Sara Kingsley (CMU)*;  George Obaido (University of the Witwatersrand, Johannesburg); Sekou Remy (IBM Research); Swathi Sadagopan (*) 
+    camera_ready: true
+    cmt_id: 60
+    id: 14
+    kind: oral
+    session: 2
+    title: Beyond Good Intentions - Data Sharing in and for Africa
+    track: research
+  - authors: Kaleab Belay (Addis Ababa Institute of Technology)*; Naol Negassa (FARIS Technology Institute)
+    camera_ready: true
+    cmt_id: 43
+    id: 17
+    kind: poster
+    session: 2
+    title: GRADIENT AND MAGNITUDE-BASED PRUNING FOR SPARSE DEEP NEURAL NETWORKS
+    track: research
+  - authors: mizanu degu (JImma university)*; Million Meshesha (Addis Ababa University)
+    camera_ready: true
+    cmt_id: 54
+    id: 20
+    kind: poster
+    session: 2
+    title: Transition Based Dependency Parser For Amharic Language Using Deep Learning
+    track: research
+  - authors: Felipe Polo (University of São Paulo)*; Itamar Ciochetti (Tikal Tech); Emerson Bertolo (Tikal Tech)
+    camera_ready: true
+    cmt_id: 59
+    id: 18
+    kind: poster
+    session: 2
+    title: Predicting Legal Proceedings Status - an Approach Based on Sequential Texts
+    track: research
+  - authors: kumar shridhar (TU Kaiserslautern)*; Pedro Alonso (Lulea Technical University); Denis Kleyko (Lulea University of Technology); Marcus Liwicki (University of Fribourg); Evgeny Osipov (Lulea University of Technology)
+    camera_ready: true
+    cmt_id: 9
+    id: 21
+    kind: poster
+    session: 2
+    title: HyperEmbed - Tradeoffs between Resources and Performance in NLP tasks with Hyperdimensional Computing enabled embedding of n-gram statistics
+    track: research
+  - authors: Namhoon Lee (University of Oxford)*; Philip Torr (University of Oxford); Martin Jaggi (EPFL)
+    camera_ready: true
+    cmt_id: 36
+    id: 22
+    kind: poster
+    session: 2
+    title: Data Parallelism in Training Sparse Neural Networks
+    track: research
+  - authors: Mennatullah Siam (University of Alberta)*; Naren Doraiswamy (Indian Institute of Science (IISc)); Boris Oreshkin (Element AI); Hengshuai Yao (Huawei Technologies); Martin Jagersand (University of Alberta)
+    camera_ready: true
+    cmt_id: 49
+    id: 23
+    kind: poster
+    session: 2
+    title: Class Agnostic Object Segmentation using Few-Shot Weakly Supervised Guidance
+    track: research
+  - authors: Sathish Indurthi (Samsung Research)*; Hou Jeung Han (Korea); Sangha Kim (Samsung Research)
+    camera_ready: true
+    cmt_id: 8
+    id: 24
+    kind: poster
+    session: 2
+    title: EXPLOITING GENERAL PURPOSE SEQUENCE REPRESENTATIONS FOR LOW RESOURCE NEURAL MACHINE TRANSLATION
+    track: research
+  - authors: Cody Coleman (Stanford)*; Christopher Yeh (Stanford University); Stephen Mussmann (Stanford University); Baharan Mirzasoleiman (Stanford University); Peter Bailis (Stanford University); Percy Liang (Stanford University); Jure Leskovec (Stanford University); Matei Zaharia (Stanford and Databricks)
+    camera_ready: true
+    cmt_id: 21
+    id: 25
+    kind: poster
+    session: 2
+    title: "Selection via Proxy: Increasing the Computational Efficiency of Deep Active Learning"
+    track: research
+  - authors: Aman Madaan (Carnegie Mellon University)*; Shruti Rijhwani (Carnegie Mellon University); Antonios Anastasopoulos (Carnegie Mellon University); Yiming Yang (Carnegie Mellon University)
+    camera_ready: true
+    cmt_id: 23
+    id: 27
+    kind: poster
+    session: 2
+    title: Practical Parallel Data Collection for Low-Resource Languages via Images
+    track: research
+  - authors: Merghaney Mohammed (The African Institute for Mathematical Sciences); Gabriele Cesa (Qualcomm AI Research, University of Amsterdam)*; Taco Cohen (Qualcomm AI Research); Max Welling (Qualcomm AI Research)
+    camera_ready: true
+    cmt_id: 30
+    id: 29
+    kind: poster
+    session: 2
+    title: A Data and Compute Efficient Design for Limited-Resources Deep Learning
+    track: research
+  title: Session 2 (9-10pm GMT)

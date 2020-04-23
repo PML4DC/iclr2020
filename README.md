@@ -24,16 +24,10 @@ challenges of learning under limited or low resource environments that are typic
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/david.jpg" class="headshot">
-        <div class="headshotname"> David Sengeh </div>
-            <a href="https://www.linkedin.com/in/davidsengeh/" class="headshotaffiliation"> Ministry Of Basic and Senior Secondary Education, Sierra Leone</a>
+        <img src="{{basepath}}/images/speakers/charitywayua.jpg" class="headshot">
+        <div class="headshotname"> Charity Wayua </div>
+            <a href="https://www.linkedin.com/in/charity-wayua-70228b14/" class="headshotaffiliation"> Research Manager at IBM Research Africa</a>
     </div>
-        
-  <!--<div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/karmelallison.jpg" class="headshot">
-        <div class="headshotname"> Karmel Allison </div>
-        <a href="https://www.linkedin.com/in/karmel/" class="headshotaffiliation"> Google, Santa Monica, CA, USA</a> 
-    </div> -->
     
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/negar.jpg" class="headshot">
