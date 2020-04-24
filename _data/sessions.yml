@@ -192,11 +192,11 @@
     session: 2
     title: GRADIENT AND MAGNITUDE-BASED PRUNING FOR SPARSE DEEP NEURAL NETWORKS
     track: research
-  - authors: mizanu degu (JImma university)*; Million Meshesha (Addis Ababa University)
+  - authors: Mizanu Degu (JImma university)*; Million Meshesha (Addis Ababa University)
     camera_ready: true
     cmt_id: 54
     id: 20
-    slides_live_id: 38915748
+    slides_live_id: 20200424T060301Z__transition-based-dependency-pa__PML4DC2020_20
     kind: poster
     session: 2
     title: Transition Based Dependency Parser For Amharic Language Using Deep Learning
@@ -246,7 +246,7 @@
     session: 2
     title: EXPLOITING GENERAL PURPOSE SEQUENCE REPRESENTATIONS FOR LOW RESOURCE NEURAL MACHINE TRANSLATION
     track: research
-  - authors: Cody Coleman (Stanford)*; Christopher Yeh (Stanford University); Stephen Mussmann (Stanford University); Baharan Mirzasoleiman (Stanford University); Peter Bailis (Stanford University); Percy Liang (Stanford University); Jure Leskovec (Stanford University); Matei Zaharia (Stanford and Databricks)
+  - authors: Cody Coleman (Stanford University)*; Christopher Yeh (Stanford University); Stephen Mussmann (Stanford University); Baharan Mirzasoleiman (Stanford University); Peter Bailis (Stanford University); Percy Liang (Stanford University); Jure Leskovec (Stanford University); Matei Zaharia (Stanford and Databricks)
     camera_ready: true
     cmt_id: 21
     id: 25
