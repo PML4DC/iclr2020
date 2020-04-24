@@ -4,6 +4,7 @@
     camera_ready: true
     cmt_id: 50
     id: 5
+    slides_live_id: 20200422T210513Z__convolutional-neural-network-f__PML4DC2020_05
     kind: oral
     session: 1
     title: Convolutional Neural Network for ECG-based Virtual Pathology Stethoscope Tracking in Patient Heart Auscultation
@@ -12,6 +13,7 @@
     camera_ready: true
     cmt_id: 11
     id: 6
+    slides_live_id: 20200412T1855087__low-resource-breast-cancer-det__PML4DC2020_06
     kind: oral
     session: 1
     title: LOW RESOURCE BREAST CANCER DETECTION WITH MAMMOGRAMS
@@ -19,6 +21,7 @@
   - authors: Utku Evci (Google AI)*; Erich Elsen (DeepMind); Pablo Samuel Castro (Google); Jacob Menick (DeepMind); Trevor Gale (Google Brain)
     camera_ready: true
     cmt_id: 57
+    slides_live_id:
     id: 7
     kind: oral
     session: 1
@@ -27,6 +30,7 @@
   - authors: Lukas Kondmann (German Aerospace Center)*; Xiaoxiang Zhu (Technical University of Munich (TUM); German Aerospace Center (DLR))
     camera_ready: true
     cmt_id: 46
+    slides_live_id: 20200410T133657Z__measuring-changes-in-poverty-w__PML4DC2020_08
     id: 8
     kind: oral
     session: 1
@@ -36,6 +40,7 @@
     camera_ready: true
     cmt_id: 4
     id: 9
+    slides_live_id: 20200411T131307Z__distant-supervision-and-noisy-__PML4DC2020_09
     kind: oral
     session: 1
     title: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition - A Study on Hausa and Yorùbá
@@ -44,6 +49,7 @@
     camera_ready: true
     cmt_id: 6
     id: 30
+    slides_live_id: 20200415T071352Z__on-iterative-neural-network-pr__PML4DC2020_30
     kind: poster
     session: 1
     title: On Iterative Neural Network Pruning, Reinitialization, and the Similarity of Masks
@@ -52,6 +58,7 @@
     camera_ready: true
     cmt_id: 48
     id: 32
+    slides_live_id: 20200413T193632Z__bipedalnet-binarized-neural-n__PML4DC2020_32
     kind: poster
     session: 1
     title: "BiPedalNet: Binarized Neural Networks for Resource-Constrained On-Device Gait Identification"
@@ -60,6 +67,7 @@
     camera_ready: true
     cmt_id: 12
     id: 34
+    slides_live_id: 20200410T203041Z__afro-mnist-synthetic-generati__PML4DC2020_34
     kind: poster
     session: 1
     title: "Afro-MNIST: Synthetic generation of MNIST-style datasets for low-resource languages"
@@ -68,6 +76,7 @@
     camera_ready: true
     cmt_id: 41
     id: 35
+    slides_live_id: 20200418T105942Z__deep-learning-mobile-applicati__PML4DC2020_35
     kind: poster
     session: 1
     title: Deep Learning Mobile Application Towards Malaria Diagnosis
@@ -76,6 +85,7 @@
     camera_ready: true
     cmt_id: 40
     id: 38
+    slides_live_id:
     kind: poster
     session: 1
     title: Developing Machine Learning Competence in Africa in the Francophone Sahel Region
@@ -84,6 +94,7 @@
     camera_ready: true
     cmt_id: 38
     id: 40
+    slides_live_id: 20200419T173752Z__lip-reading-by-leveraging-hahn__PML4DC2020_40
     kind: poster
     session: 1
     title: Lip Reading by Leveraging Hahn Convolutional Neural Network in Low-Resourced Environments
@@ -92,6 +103,7 @@
     camera_ready: true
     cmt_id: 22
     id: 41
+    slides_live_id: 20200418T230211Z__location-information-and-racia__PML4DC2020_41
     kind: poster
     session: 1
     title: Location Information and Racial Biases in Credit Scoring
@@ -100,6 +112,7 @@
     camera_ready: true
     cmt_id: 25
     id: 42
+    slides_live_id: 20200414T132917Z__bilateral-trade-modelling-with__PML4DC2020_42
     kind: poster
     session: 1
     title: Bilateral Trade Modelling with Graph Neural Networks
@@ -108,6 +121,7 @@
     camera_ready: true
     cmt_id: 53
     id: 45
+    slides_live_id: 20200414T050245Z__classification-and-detection-o__PML4DC2020_45
     kind: poster
     session: 1
     title: Classification and Detection of Plasmodium Vivax Infected Cells in Blood Smears Images
@@ -116,6 +130,7 @@
     camera_ready: true
     cmt_id: 15
     id: 46
+    slides_live_id: 20200415T103844Z__artificial-intelligence-for-gl__PML4DC2020_46
     kind: poster
     session: 1
     title: "Artificial Intelligence for Global Health: Learning From a Decade of Digital Transformation in Health Care"
@@ -124,6 +139,7 @@
     camera_ready: true
     cmt_id: 15
     id: 47
+    slides_live_id: 
     kind: poster
     session: 1
     title: "Modeling, Visualization, and Analysis of African Innovation Performance"
@@ -135,6 +151,7 @@
     camera_ready: true
     cmt_id: 39
     id: 10
+    slides_live_id: 20200415T035006Z__spanish-pre-trained-bert-model__PML4DC2020_10
     kind: oral
     session: 2
     title: Spanish pre-trained BERT model and evaluation data
@@ -143,6 +160,7 @@
     camera_ready: true
     cmt_id: 14
     id: 11
+    slides_live_id: 20200419T064504Z_distributed-learning-sequenti_PML4DC2020_11
     kind: oral
     session: 2
     title: Distributed Learning - Sequential Decision Making in Resource-Constrained Environments
@@ -151,6 +169,7 @@
     camera_ready: true
     cmt_id: 7
     id: 12
+    slides_live_id: 20200415T083527Z__streamlining-tensor-and-networ__PML4DC2020_12
     kind: oral
     session: 2
     title: Streamlining Tensor and Network Pruning in PyTorch
@@ -159,6 +178,7 @@
     camera_ready: false
     cmt_id: 32
     id: 13
+    slides_live_id:
     kind: oral
     session: 2
     title: Standardizing image capture for machine learning algorithms in low-resource settings
@@ -167,6 +187,7 @@
     camera_ready: true
     cmt_id: 60
     id: 14
+    slides_live_id: 20200422T142423Z__3a6fb2be-c862-4080-8ef4-070fee92e649
     kind: oral
     session: 2
     title: Beyond Good Intentions - Data Sharing in and for Africa
@@ -175,6 +196,7 @@
     camera_ready: true
     cmt_id: 43
     id: 17
+    slides_live_id: 20200419T142958Z__gradient-and-magnitude-based-p__PML4DC2020_17
     kind: poster
     session: 2
     title: GRADIENT AND MAGNITUDE-BASED PRUNING FOR SPARSE DEEP NEURAL NETWORKS
@@ -183,6 +205,7 @@
     camera_ready: true
     cmt_id: 54
     id: 20
+    slides_live_id: 
     kind: poster
     session: 2
     title: Transition Based Dependency Parser For Amharic Language Using Deep Learning
@@ -191,6 +214,7 @@
     camera_ready: true
     cmt_id: 59
     id: 18
+    slideslive_id: 20200414T194839Z__predicting-legal-proceedings-s__PML4DC2020_18
     kind: poster
     session: 2
     title: Predicting Legal Proceedings Status - an Approach Based on Sequential Texts
@@ -199,6 +223,7 @@
     camera_ready: true
     cmt_id: 9
     id: 21
+    slides_live_id: 20200412T1420457_hyperembed-tradeoffs-between_PML4DC2020_21
     kind: poster
     session: 2
     title: HyperEmbed - Tradeoffs between Resources and Performance in NLP tasks with Hyperdimensional Computing enabled embedding of n-gram statistics
@@ -207,6 +232,7 @@
     camera_ready: true
     cmt_id: 36
     id: 22
+    slides_live_id: 20200414T151515Z__data-parallelism-in-training-s__PML4DC2020_22
     kind: poster
     session: 2
     title: Data Parallelism in Training Sparse Neural Networks
@@ -215,6 +241,7 @@
     camera_ready: true
     cmt_id: 49
     id: 23
+    slides_live_id: 20200418T234955Z__class-agnostic-object-segmenta__PML4DC2020_23 
     kind: poster
     session: 2
     title: Class Agnostic Object Segmentation using Few-Shot Weakly Supervised Guidance
@@ -223,6 +250,7 @@
     camera_ready: true
     cmt_id: 8
     id: 24
+    slides_live_id:
     kind: poster
     session: 2
     title: EXPLOITING GENERAL PURPOSE SEQUENCE REPRESENTATIONS FOR LOW RESOURCE NEURAL MACHINE TRANSLATION
@@ -231,6 +259,7 @@
     camera_ready: true
     cmt_id: 21
     id: 25
+    slides_live_id: 20200412T192905Z__selection-via-proxy-increasin__PML4DC2020_25
     kind: poster
     session: 2
     title: "Selection via Proxy: Increasing the Computational Efficiency of Deep Active Learning"
@@ -239,6 +268,7 @@
     camera_ready: true
     cmt_id: 23
     id: 27
+    slides_live_id: 20200414T210121Z_practical-parallel-data-collec_PML4DC2020_27
     kind: poster
     session: 2
     title: Practical Parallel Data Collection for Low-Resource Languages via Images
@@ -247,6 +277,7 @@
     camera_ready: true
     cmt_id: 30
     id: 29
+    slides_live_id: 20200414T235324Z_a-data-and-compute-efficient-d_PML4DC2020_29
     kind: poster
     session: 2
     title: A Data and Compute Efficient Design for Limited-Resources Deep Learning
