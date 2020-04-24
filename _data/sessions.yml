@@ -21,7 +21,7 @@
   - authors: Utku Evci (Google AI)*; Erich Elsen (DeepMind); Pablo Samuel Castro (Google); Jacob Menick (DeepMind); Trevor Gale (Google Brain)
     camera_ready: true
     cmt_id: 57
-    slides_live_id:
+    slides_live_id: 38915748
     id: 7
     kind: oral
     session: 1
@@ -85,7 +85,7 @@
     camera_ready: true
     cmt_id: 40
     id: 38
-    slides_live_id:
+    slides_live_id: 38915748
     kind: poster
     session: 1
     title: Developing Machine Learning Competence in Africa in the Francophone Sahel Region
@@ -139,7 +139,7 @@
     camera_ready: true
     cmt_id: 15
     id: 47
-    slides_live_id: 
+    slides_live_id: 38915748
     kind: poster
     session: 1
     title: "Modeling, Visualization, and Analysis of African Innovation Performance"
@@ -178,7 +178,7 @@
     camera_ready: false
     cmt_id: 32
     id: 13
-    slides_live_id:
+    slides_live_id: 38915748
     kind: oral
     session: 2
     title: Standardizing image capture for machine learning algorithms in low-resource settings
@@ -205,7 +205,7 @@
     camera_ready: true
     cmt_id: 54
     id: 20
-    slides_live_id: 
+    slides_live_id: 38915748
     kind: poster
     session: 2
     title: Transition Based Dependency Parser For Amharic Language Using Deep Learning
@@ -250,7 +250,7 @@
     camera_ready: true
     cmt_id: 8
     id: 24
-    slides_live_id:
+    slides_live_id: 38915748
     kind: poster
     session: 2
     title: EXPLOITING GENERAL PURPOSE SEQUENCE REPRESENTATIONS FOR LOW RESOURCE NEURAL MACHINE TRANSLATION
