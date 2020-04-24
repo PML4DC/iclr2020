@@ -246,7 +246,7 @@
     session: 2
     title: EXPLOITING GENERAL PURPOSE SEQUENCE REPRESENTATIONS FOR LOW RESOURCE NEURAL MACHINE TRANSLATION
     track: research
-  - authors: Cody Coleman (Stanford)*; Christopher Yeh (Stanford University); Stephen Mussmann (Stanford University); Baharan Mirzasoleiman (Stanford University); Peter Bailis (Stanford University); Percy Liang (Stanford University); Jure Leskovec (Stanford University); Matei Zaharia (Stanford and Databricks)
+  - authors: Cody Coleman (Stanford University)*; Christopher Yeh (Stanford University); Stephen Mussmann (Stanford University); Baharan Mirzasoleiman (Stanford University); Peter Bailis (Stanford University); Percy Liang (Stanford University); Jure Leskovec (Stanford University); Matei Zaharia (Stanford and Databricks)
     camera_ready: true
     cmt_id: 21
     id: 25
