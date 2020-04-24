@@ -205,7 +205,7 @@
     camera_ready: true
     cmt_id: 59
     id: 18
-    slideslive_id: 20200414T194839Z__predicting-legal-proceedings-s__PML4DC2020_18
+    slides_live_id: 20200414T194839Z__predicting-legal-proceedings-s__PML4DC2020_18
     kind: poster
     session: 2
     title: Predicting Legal Proceedings Status - an Approach Based on Sequential Texts

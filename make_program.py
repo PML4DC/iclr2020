@@ -76,7 +76,7 @@ for speaker in speakers:
 	speaker["cmt_id"] = -1
 	speaker["track"] = speaker["kind"]
 	speaker["rocket_id"] = "pml4dc2020_channel_{:02d}".format(speaker["id"])
- 	speaker["slides_live_id"] = speaker["slides_live_id"]
+	#speaker["slides_live_id"] = speaker["slides_live_id"]
 	speaker["live"] = str(speaker.get("live", False)).lower()
 	speaker["meeting_url"] = ""
 
