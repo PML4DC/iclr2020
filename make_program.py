@@ -1,5 +1,8 @@
 import yaml
 import os
+import zoom
+
+INCLUDE_MEETING_URLS = False
 
 
 template = """
@@ -8,7 +11,7 @@ layout: paper
 id: {id}
 slides_live_id: 38915748
 rocket_id: {rocket_id}
-meeting_url: 
+meeting_url: {meeting_url}
 authors: "{authors}"
 camera_ready: {camera_ready}
 cmt_id: {cmt_id}
@@ -33,14 +36,24 @@ with open("_data/sessions.yml", "r") as fh:
 for session in sessions:
 	for paper in session["papers"]:
 		print(paper["id"])
+
+		if INCLUDE_MEETING_URLS:
+			meeting_id = "PML4DC2020_{}".format(paper["id"])
+			try:
+				meeting = zoom.read_json(meeting_id)
+				paper["meeting_url"] = meeting["join_url"]
+			except FileNotFoundError:
+				print("No meeting '{}'".format(meeting_id))
+				paper["meeting_url"] = ""
+		else:
+			paper["meeting_url"] = ""
+
 		paper["camera_ready"] = str(paper["camera_ready"]).lower()
 		paper["session_id"] = session["id"]
 		paper["session_title"] = session["title"]
 		paper["title"] = paper["title"].replace("\"", "\\\"")
-		if paper["id"] > 0:
-			paper["rocket_id"] = "pml4dc_channel_{:02d}".format(paper["id"])
-		else:
-			paper["rocket_id"] = "pml4dc_channel_{}".format(paper["id"])
+		paper["rocket_id"] = "pml4dc2020_channel_{:02d}".format(paper["id"])
+		paper["slides_live_id"] = paper["slides_live_id"]
 		paper["live"] = "false"
 
 		html = template.format(**paper)
@@ -62,8 +75,10 @@ for speaker in speakers:
 	speaker["title"] = speaker["title"].replace("\"", "\\\"")
 	speaker["cmt_id"] = -1
 	speaker["track"] = speaker["kind"]
-	speaker["rocket_id"] = "pml4dc_channel_{:02d}".format(speaker["id"])
+	speaker["rocket_id"] = "pml4dc2020_channel_{:02d}".format(speaker["id"])
+ 	speaker["slides_live_id"] = speaker["slides_live_id"]
 	speaker["live"] = str(speaker.get("live", False)).lower()
+	speaker["meeting_url"] = ""
 
 	html = template.format(**speaker)
 
