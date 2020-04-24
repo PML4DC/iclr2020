@@ -159,6 +159,36 @@ table{
     width: 98%;
 }
 
+.slp {
+    background: #fff;
+    padding: 10px;
+    border: 4px solid #eee;
+    box-shadow: rgb(204, 204, 204) 2px 2px 14px 0px;
+    margin-right: 10px;
+  }
+  
+.rocket {
+    background: #fff;
+    padding: 10px;
+    border: 4px solid #eee;
+    box-shadow: rgb(204, 204, 204) 2px 2px 14px 0px;
+    margin-left: 10px;
+  }
+  
+  .paper ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 0;
+  }
+  
+  .col {
+    padding: 0;
+  }
+  
+  .row {
+    margin: 20px;
+  }
+
 @import "{{ site.theme }}";
 
 
