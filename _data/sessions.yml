@@ -174,15 +174,6 @@
     session: 2
     title: Streamlining Tensor and Network Pruning in PyTorch
     track: research
-  - authors: Gilbert Rukundo (Partners in Health)*; Elizabeth Miranda (Program in Global Surgery and Social Change, Harvard Medical School, Boston, MA); Andrea Goodman (Havard Medical School); Robert Riviello (Department of Global Health and Social Medicine, Harvard Medical School, Boston, MA); Fredrick Kateera (Partners in Health); Richard Redemske (Mobile Technology Lab, D-Lab, Massachusetts Institute of Technology, Boston, MA); Richard Fletcher (Massachusetts Institute of Technology); Bethany Hedt-Gauthier (Department of Global Health and Social Medicine, Harvard Medical School, Boston, MA)
-    camera_ready: false
-    cmt_id: 32
-    id: 13
-    slides_live_id: 38915748
-    kind: oral
-    session: 2
-    title: Standardizing image capture for machine learning algorithms in low-resource settings
-    track: research
   - authors: Kehinde Aruleba University of the Witwatersrand); Abeba Birhane (UCD); Sara Kingsley (CMU)*;  George Obaido (University of the Witwatersrand, Johannesburg); Sekou Remy (IBM Research); Swathi Sadagopan (*) 
     camera_ready: true
     cmt_id: 60
@@ -250,7 +241,7 @@
     camera_ready: true
     cmt_id: 8
     id: 24
-    slides_live_id: 38915748
+    slides_live_id: 20200424T002451Z__exploiting-general-purpose-seq__PML4DC2020_24
     kind: poster
     session: 2
     title: EXPLOITING GENERAL PURPOSE SEQUENCE REPRESENTATIONS FOR LOW RESOURCE NEURAL MACHINE TRANSLATION
