@@ -1,20 +1,24 @@
 - authors: John Alexis Guerra Gómez
   id: 2
+  slides_live_id: 20200422T230246Z__tbd__PML4DC2020_02
   kind: invited
   title: TBD
   live: true
 - authors: Negar Rouzmateh
   id: 3
+  slides_live_id: 20200421T001525Z__tbd__PML4DC2020_03
   kind: invited
   title: Learning with less resources - minimizing the labeling effort
   live: true
 - authors: Charity Wayua
   id: 4
+  slides_live_id: 20200422T121423Z__tbd__PML4DC2020_04
   kind: invited
   title: TBD
   live: true
 - authors: Waheeda Saib, Esube Bekele, Meareg Hailemariam, Victor Dibia, Timnit Gebru, Rediet Abebe, and Vukosi Marivate
   id: 55
+  slides_live_id:
   kind: opening
   title: Opening Remarks
   live: true
