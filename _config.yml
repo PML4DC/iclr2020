@@ -13,7 +13,7 @@ navigation:
   url: /dates.html
   layout: project
 - text: SCHEDULE
-  url: /program.html
+  url: /schedule.html
   layout: post
 - text: PAPERS
   url: /papers.html
