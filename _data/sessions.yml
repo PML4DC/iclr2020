@@ -90,6 +90,9 @@
     session: 1
     title: "Artificial Intelligence for Global Health: Learning From a Decade of Digital Transformation in Health Care"
     track: research
+  title: Session 1 (12:35-1:35pm EDT)
+- id: 2
+  papers:
   - authors: Muhammad Omer (Baylasan for Innovation)*; Moayad Elamin (Baylasan for Innovation); Ammar Khairi (University of Khartoum); Rami Ahmed (Baylasan for Innovation)
     camera_ready: true
     cmt_id: 15
@@ -99,9 +102,6 @@
     session: 1
     title: "Modeling, Visualization, and Analysis of African Innovation Performance"
     track: research
-  title: Session 1 (12:35-1:35pm EDT)
-- id: 2
-  papers:
   - authors: Kaleab Belay (Addis Ababa Institute of Technology)*; Naol Negassa (FARIS Technology Institute)
     camera_ready: true
     cmt_id: 43
