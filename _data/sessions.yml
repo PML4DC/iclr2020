@@ -1,50 +1,5 @@
 - id: 1
   papers:
-  - authors: Haben Yhdego (Old Dominion University)*
-    camera_ready: true
-    cmt_id: 50
-    id: 5
-    slides_live_id: 20200422T210513Z__convolutional-neural-network-f__PML4DC2020_05
-    kind: oral
-    session: 1
-    title: Convolutional Neural Network for ECG-based Virtual Pathology Stethoscope Tracking in Patient Heart Auscultation
-    track: research
-  - authors: Sara Ebrahim (AIMS Rwanda)*; Kris Sankaran (Mila)
-    camera_ready: true
-    cmt_id: 11
-    id: 6
-    slides_live_id: 20200412T1855087__low-resource-breast-cancer-det__PML4DC2020_06
-    kind: oral
-    session: 1
-    title: LOW RESOURCE BREAST CANCER DETECTION WITH MAMMOGRAMS
-    track: research
-  - authors: Utku Evci (Google AI)*; Erich Elsen (DeepMind); Pablo Samuel Castro (Google); Jacob Menick (DeepMind); Trevor Gale (Google Brain)
-    camera_ready: true
-    cmt_id: 57
-    slides_live_id: 38915748
-    id: 7
-    kind: oral
-    session: 1
-    title: Rigging the Lottery - Making All Tickets Winners
-    track: research
-  - authors: Lukas Kondmann (German Aerospace Center)*; Xiaoxiang Zhu (Technical University of Munich (TUM); German Aerospace Center (DLR))
-    camera_ready: true
-    cmt_id: 46
-    slides_live_id: 20200410T133657Z__measuring-changes-in-poverty-w__PML4DC2020_08
-    id: 8
-    kind: oral
-    session: 1
-    title: Measuring Changes in Poverty with Deep Learning and Satellite Imagery
-    track: research
-  - authors: David Adelani (Saarland University); Michael Hedderich (Spoken Language Systems (LSV), Saarland University, Saarland Informatics Campus)*; Dawei Zhu (Saarland University); Esther van den Berg (Universität Heidelberg); Dietrich Klakow (Saarland University)
-    camera_ready: true
-    cmt_id: 4
-    id: 9
-    slides_live_id: 20200411T131307Z__distant-supervision-and-noisy-__PML4DC2020_09
-    kind: oral
-    session: 1
-    title: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition - A Study on Hausa and Yorùbá
-    track: research
   - authors: Michela Paganini (Facebook); Jessica Forde (Brown University)*
     camera_ready: true
     cmt_id: 6
@@ -144,45 +99,9 @@
     session: 1
     title: "Modeling, Visualization, and Analysis of African Innovation Performance"
     track: research
-  title: Session 1 (2-3pm GMT)
+  title: Session 1 (12:35-1:35pm EDT)
 - id: 2
   papers:
-  - authors: José Cañete (Universidad de Chile); Gabriel Chaperon (Universidad de Chile)*; Rodrigo Fuentes (Universidad de Chile); Jorge Pérez (universidad de Chile)
-    camera_ready: true
-    cmt_id: 39
-    id: 10
-    slides_live_id: 20200415T035006Z__spanish-pre-trained-bert-model__PML4DC2020_10
-    kind: oral
-    session: 2
-    title: Spanish pre-trained BERT model and evaluation data
-    track: research
-  - authors: Udari Madhushani (Princeton University)*; Naomi Leonard (Princeton University)
-    camera_ready: true
-    cmt_id: 14
-    id: 11
-    slides_live_id: 20200419T064504Z_distributed-learning-sequenti_PML4DC2020_11
-    kind: oral
-    session: 2
-    title: Distributed Learning - Sequential Decision Making in Resource-Constrained Environments
-    track: research
-  - authors: Michela Paganini (Facebook); Jessica Forde (Brown University)*
-    camera_ready: true
-    cmt_id: 7
-    id: 12
-    slides_live_id: 20200415T083527Z__streamlining-tensor-and-networ__PML4DC2020_12
-    kind: oral
-    session: 2
-    title: Streamlining Tensor and Network Pruning in PyTorch
-    track: research
-  - authors: Kehinde Aruleba University of the Witwatersrand); Abeba Birhane (UCD); Sara Kingsley (CMU)*;  George Obaido (University of the Witwatersrand, Johannesburg); Sekou Remy (IBM Research); Swathi Sadagopan (*) 
-    camera_ready: true
-    cmt_id: 60
-    id: 14
-    slides_live_id: 20200422T142423Z__3a6fb2be-c862-4080-8ef4-070fee92e649
-    kind: oral
-    session: 2
-    title: Beyond Good Intentions - Data Sharing in and for Africa
-    track: research
   - authors: Kaleab Belay (Addis Ababa Institute of Technology)*; Naol Negassa (FARIS Technology Institute)
     camera_ready: true
     cmt_id: 43
@@ -200,15 +119,6 @@
     kind: poster
     session: 2
     title: Transition Based Dependency Parser For Amharic Language Using Deep Learning
-    track: research
-  - authors: Felipe Polo (University of São Paulo)*; Itamar Ciochetti (Tikal Tech); Emerson Bertolo (Tikal Tech)
-    camera_ready: true
-    cmt_id: 59
-    id: 18
-    slides_live_id: 20200414T194839Z__predicting-legal-proceedings-s__PML4DC2020_18
-    kind: oral
-    session: 2
-    title: Predicting Legal Proceedings Status - an Approach Based on Sequential Texts
     track: research
   - authors: kumar shridhar (TU Kaiserslautern)*; Pedro Alonso (Lulea Technical University); Denis Kleyko (Lulea University of Technology); Marcus Liwicki (University of Fribourg); Evgeny Osipov (Lulea University of Technology)
     camera_ready: true
@@ -273,4 +183,4 @@
     session: 2
     title: A Data and Compute Efficient Design for Limited-Resources Deep Learning
     track: research
-  title: Session 2 (9-10pm GMT)
+  title: Session 2 (4:30-5:30pm EDT)
