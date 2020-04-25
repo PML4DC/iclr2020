@@ -19,8 +19,8 @@ The schedule is as follows. All times listed are in EDT (New York Time):
 |11:50 - 12:05 |Contributed Talk 09: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition: A Study on Hausa and Yorùbá |Michael Hedderich (Saarland University) |
 |12:05 - 12:35 |Live Q&A for Contributed Talk Speakers 14, 08, 07, 11, and 09 | |
 |12:35 - 01:35 |[Poster Session 1](https://pml4dc.github.io/iclr2020/papers.html#session-1) | |
-|01:40 - 02:10 |Invited Talk: TBD |John Alexis Guerra Gómez |
-|02:10 - 02:15 |Invited Live Q&A: TBD |John Alexis Guerra Gómez |
+|01:40 - 02:10 |Invited Talk: Lessons learned from practicing and teaching data science in Latin America |John Alexis Guerra Gómez |
+|02:10 - 02:15 |Invited Live Q&A: Lessons learned from practicing and teaching data science in Latin America |John Alexis Guerra Gómez |
 |02:20 - 02:35 |Contributed Talk 12: Streamlining Tensor and Network Pruning in PyTorch |Jessica Forde (Brown University) |
 |02:35 - 02:50 |Contributed Talk 05: Convolutional Neural Network for ECG-based Virtual Pathology Stethoscope Tracking in Patient Heart Auscultation |Haben Yhdego (Old Dominion University) |
 |02:50 - 03:05 |Contributed Talk 10: Spanish pre-trained BERT model and evaluation data |Gabriel Chaperon (Universidad de Chile) |
