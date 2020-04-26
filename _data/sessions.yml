@@ -28,7 +28,7 @@
 - id: 2
   papers:
   - authors: Kehinde Aruleba University of the Witwatersrand); Abeba Birhane (UCD); Sara Kingsley (CMU)*;  George Obaido (University of the Witwatersrand, Johannesburg); Sekou Remy (IBM Research); Swathi Sadagopan (*) 
-    camera_ready: true
+    camera_ready: false
     slide_ready: true
     cmt_id: 60
     id: 14
