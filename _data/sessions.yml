@@ -45,8 +45,47 @@
     session: 1
     title: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition - A Study on Hausa and Yorùbá
     track: research
-  title: Contributed Oral Presentations
+  title: Contributed Oral Presentations 1
 - id: 2
+  papers:
+  - authors: José Cañete (Universidad de Chile); Gabriel Chaperon (Universidad de Chile)*; Rodrigo Fuentes (Universidad de Chile); Jorge Pérez (universidad de Chile)
+    camera_ready: true
+    cmt_id: 39
+    id: 10
+    slides_live_id: 20200415T035006Z__spanish-pre-trained-bert-model__PML4DC2020_10
+    kind: oral
+    session: 2
+    title: Spanish pre-trained BERT model and evaluation data
+    track: research
+  - authors: Udari Madhushani (Princeton University)*; Naomi Leonard (Princeton University)
+    camera_ready: true
+    cmt_id: 14
+    id: 11
+    slides_live_id: 20200419T064504Z_distributed-learning-sequenti_PML4DC2020_11
+    kind: oral
+    session: 2
+    title: Distributed Learning - Sequential Decision Making in Resource-Constrained Environments
+    track: research
+  - authors: Michela Paganini (Facebook); Jessica Forde (Brown University)*
+    camera_ready: true
+    cmt_id: 7
+    id: 12
+    slides_live_id: 20200415T083527Z__streamlining-tensor-and-networ__PML4DC2020_12
+    kind: oral
+    session: 2
+    title: Streamlining Tensor and Network Pruning in PyTorch
+    track: research
+  - authors: Kehinde Aruleba University of the Witwatersrand); Abeba Birhane (UCD); Sara Kingsley (CMU)*;  George Obaido (University of the Witwatersrand, Johannesburg); Sekou Remy (IBM Research); Swathi Sadagopan (*) 
+    camera_ready: true
+    cmt_id: 60
+    id: 14
+    slides_live_id: 20200422T142423Z__3a6fb2be-c862-4080-8ef4-070fee92e649
+    kind: oral
+    session: 2
+    title: Beyond Good Intentions - Data Sharing in and for Africa
+    track: research
+  title: Contributed Oral Presentations 2
+- id: 3
   papers:
   - authors: Michela Paganini (Facebook); Jessica Forde (Brown University)*
     camera_ready: true
@@ -139,7 +178,7 @@
     title: "Artificial Intelligence for Global Health: Learning From a Decade of Digital Transformation in Health Care"
     track: research
   title: Poster Session 1 (12:35-1:35pm EDT)
-- id: 3
+- id: 4
   papers:
   - authors: Muhammad Omer (Baylasan for Innovation)*; Moayad Elamin (Baylasan for Innovation); Ammar Khairi (University of Khartoum); Rami Ahmed (Baylasan for Innovation)
     camera_ready: true
