@@ -17,6 +17,3 @@ We will send out invitations to each presenter into a service to record their vi
 - We suggest each presenter prepare the material for their talks, which they will eventually record as a video as soon as they get their invitations.  These videos will become part of the permanent record of the conference workshops. For poster presentations, this video takes the place of what you would communicate at an in-person poster session. Make sure it is easy to understand. Authors of accepted papers do not need to make a poster. They can use slides that help communicate their work in the most accessible way, and in the time allocated.
 - Each presenter will need to upload the slides or share a link to them, so use only formats that can easily be shared: a PDF of your slides, link to a cloud-based presentation that is widely accessible (e.g., Google Slides, Dropbox Paper, Prezi), or on a web-page.
 - Each presenter need to submit their videos by April 14th 2020 (anywhere on earth). This is a *firm* deadline. No extensions.
-
-# Schedule for Live Sessions
-Coming soon...

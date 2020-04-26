@@ -18,7 +18,9 @@ navigation:
 - text: PAPERS
   url: /papers.html
   layout: post
-- text: ORGANIZERS
-  url: /organizers.html  
+- text: INSTRUCTIONS
+  url: /instructions.html
 - text: VIRTUAL
   url: /virtual.html
+- text: ORGANIZERS
+  url: /organizers.html
