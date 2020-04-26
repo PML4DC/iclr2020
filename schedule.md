@@ -18,7 +18,7 @@ The schedule is as follows. All times listed are in EDT (New York Time):
 |11:35 - 11:50 |Contributed Talk 11: Distributed Learning: Sequential Decision Making in Resource-Constrained Environments |Udari Madhushani (Princeton University) |
 |11:50 - 12:05 |Contributed Talk 09: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition: A Study on Hausa and Yorùbá |Michael Hedderich (Saarland University) |
 |12:05 - 12:35 |Live Q&A for Contributed Talk Speakers 14, 08, 07, 11, and 09 | |
-|12:35 - 01:35 |[Poster Session 1](https://pml4dc.github.io/iclr2020/papers.html#session-1) | |
+|12:35 - 01:35 |[Poster Session 1](https://pml4dc.github.io/iclr2020/papers.html#session-2) | |
 |01:40 - 02:10 |Invited Talk: Lessons learned from practicing and teaching data science in Latin America |John Alexis Guerra Gómez |
 |02:10 - 02:15 |Invited Live Q&A: Lessons learned from practicing and teaching data science in Latin America |John Alexis Guerra Gómez |
 |02:20 - 02:35 |Contributed Talk 12: Streamlining Tensor and Network Pruning in PyTorch |Jessica Forde (Brown University) |
@@ -29,7 +29,7 @@ The schedule is as follows. All times listed are in EDT (New York Time):
 |03:35 - 03:55 |Live Q&A for Contributed Talk Speakers 12, 05, 10, 06, and 18 | |
 |03:55 - 04:25 |Invited Talk: Learning with less resources: minimizing the labeling effort |Negar Rouzmateh |
 |04:25 - 04:30 |Invited Live Q&A: Learning with less resources: minimizing the labeling effort |Negar Rouzmateh |
-|04:30 - 05:30 |[Poster Session 2](https://pml4dc.github.io/iclr2020/papers.html#session-2) | |
+|04:30 - 05:30 |[Poster Session 2](https://pml4dc.github.io/iclr2020/papers.html#session-3) | |
 |05:35 - 05:45 |Closing Remarks | |
 
 The Panel Discussion will focus on training data creation and ownership issues: The tension between reducing resources such as the expense to annotate and gather datasets vs. hiring people to label and annotate datasets (many of the people labeling right now are from the developing world). Most training data labeling companies are hiring people from the developing world for this effort. But a lot of the data is not owned by people from the developing world.
