@@ -47,7 +47,7 @@ session_2: false
 
 <div class="row justify-content-center">
   <div class="col">
-	{% if layout.video and page.live != true %}
+	{% if page.live != true %}
     <div id="presentation-embed-{{ page.slides_live_id }}" class="slp"></div>
     <script src='https://slideslive.com/embed_presentation.js'></script>
     <script>
