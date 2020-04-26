@@ -32,7 +32,7 @@ challenges of learning under limited or low resource environments that are typic
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/negar.jpg" class="headshot">
         <div class="headshotname"> Negar Rostamzadeh </div>
-         <a href="https://www.linkedin.com/in/nrostamzadeh/?originalSubdomain=ca" class="headshotaffiliation">Element AI, Montreal, QC, Canada </a>
+         <a href="https://www.linkedin.com/in/nrostamzadeh/?originalSubdomain=ca" class="headshotaffiliation">ML Researcher </a>
     </div>
 
      <div class="iblock headshotbox "> 
