@@ -1,31 +1,33 @@
 - id: 1
   papers:
-  - authors: Haben Yhdego (Old Dominion University)*
+  - authors: John Alexis Guerra Gómez
+    id: 2
+    slides_live_id: 20200422T230246Z__tbd__PML4DC2020_02
+    kind: invited
+    title: Lessons learned from practicing and teaching data science in Latin America
+    live: true
+  - authors: Negar Rouzmateh
+    id: 3
+    slides_live_id: 20200421T001525Z__tbd__PML4DC2020_03
+    kind: invited
+    title: Learning with less resources - minimizing the labeling effort
+    live: true
+  - authors: Charity Wayua
+    id: 4
+    slides_live_id: 20200422T121423Z__tbd__PML4DC2020_04
+    kind: invited
+    title: Lessons learned from practicing and teaching data science in Latin America
+    live: true
+- id: 2
+  papers:
+  - authors: Kehinde Aruleba University of the Witwatersrand); Abeba Birhane (UCD); Sara Kingsley (CMU)*;  George Obaido (University of the Witwatersrand, Johannesburg); Sekou Remy (IBM Research); Swathi Sadagopan (*) 
     camera_ready: true
-    cmt_id: 50
-    id: 5
-    slides_live_id: 20200422T210513Z__convolutional-neural-network-f__PML4DC2020_05
+    cmt_id: 60
+    id: 14
+    slides_live_id: 20200422T142423Z__3a6fb2be-c862-4080-8ef4-070fee92e649
     kind: oral
-    session: 1
-    title: Convolutional Neural Network for ECG-based Virtual Pathology Stethoscope Tracking in Patient Heart Auscultation
-    track: research
-  - authors: Sara Ebrahim (AIMS Rwanda)*; Kris Sankaran (Mila)
-    camera_ready: true
-    cmt_id: 11
-    id: 6
-    slides_live_id: 20200412T1855087__low-resource-breast-cancer-det__PML4DC2020_06
-    kind: oral
-    session: 1
-    title: LOW RESOURCE BREAST CANCER DETECTION WITH MAMMOGRAMS
-    track: research
-  - authors: Utku Evci (Google AI)*; Erich Elsen (DeepMind); Pablo Samuel Castro (Google); Jacob Menick (DeepMind); Trevor Gale (Google Brain)
-    camera_ready: true
-    cmt_id: 57
-    slides_live_id: 38915748
-    id: 7
-    kind: oral
-    session: 1
-    title: Rigging the Lottery - Making All Tickets Winners
+    session: 2
+    title: Beyond Good Intentions - Data Sharing in and for Africa
     track: research
   - authors: Lukas Kondmann (German Aerospace Center)*; Xiaoxiang Zhu (Technical University of Munich (TUM); German Aerospace Center (DLR))
     camera_ready: true
@@ -36,26 +38,14 @@
     session: 1
     title: Measuring Changes in Poverty with Deep Learning and Satellite Imagery
     track: research
-  - authors: David Adelani (Saarland University); Michael Hedderich (Spoken Language Systems (LSV), Saarland University, Saarland Informatics Campus)*; Dawei Zhu (Saarland University); Esther van den Berg (Universität Heidelberg); Dietrich Klakow (Saarland University)
+  - authors: Utku Evci (Google AI)*; Erich Elsen (DeepMind); Pablo Samuel Castro (Google); Jacob Menick (DeepMind); Trevor Gale (Google Brain)
     camera_ready: true
-    cmt_id: 4
-    id: 9
-    slides_live_id: 20200411T131307Z__distant-supervision-and-noisy-__PML4DC2020_09
+    cmt_id: 57
+    slides_live_id: 38915748
+    id: 7
     kind: oral
     session: 1
-    title: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition - A Study on Hausa and Yorùbá
-    track: research
-  title: Contributed Oral Presentations 1
-- id: 2
-  papers:
-  - authors: José Cañete (Universidad de Chile); Gabriel Chaperon (Universidad de Chile)*; Rodrigo Fuentes (Universidad de Chile); Jorge Pérez (universidad de Chile)
-    camera_ready: true
-    cmt_id: 39
-    id: 10
-    slides_live_id: 20200415T035006Z__spanish-pre-trained-bert-model__PML4DC2020_10
-    kind: oral
-    session: 2
-    title: Spanish pre-trained BERT model and evaluation data
+    title: Rigging the Lottery - Making All Tickets Winners
     track: research
   - authors: Udari Madhushani (Princeton University)*; Naomi Leonard (Princeton University)
     camera_ready: true
@@ -66,6 +56,18 @@
     session: 2
     title: Distributed Learning - Sequential Decision Making in Resource-Constrained Environments
     track: research
+  - authors: David Adelani (Saarland University); Michael Hedderich (Spoken Language Systems (LSV), Saarland University, Saarland Informatics Campus)*; Dawei Zhu (Saarland University); Esther van den Berg (Universität Heidelberg); Dietrich Klakow (Saarland University)
+    camera_ready: true
+    cmt_id: 4
+    id: 9
+    slides_live_id: 20200411T131307Z__distant-supervision-and-noisy-__PML4DC2020_09
+    kind: oral
+    session: 1
+    title: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition - A Study on Hausa and Yorùbá
+    track: research
+  title: Contributed Oral Presentations 1 (10:50 AM - 12:35 PM EDT, New York Time)
+- id: 3
+  papers:
   - authors: Michela Paganini (Facebook); Jessica Forde (Brown University)*
     camera_ready: true
     cmt_id: 7
@@ -75,17 +77,44 @@
     session: 2
     title: Streamlining Tensor and Network Pruning in PyTorch
     track: research
-  - authors: Kehinde Aruleba University of the Witwatersrand); Abeba Birhane (UCD); Sara Kingsley (CMU)*;  George Obaido (University of the Witwatersrand, Johannesburg); Sekou Remy (IBM Research); Swathi Sadagopan (*) 
+  - authors: Haben Yhdego (Old Dominion University)*
     camera_ready: true
-    cmt_id: 60
-    id: 14
-    slides_live_id: 20200422T142423Z__3a6fb2be-c862-4080-8ef4-070fee92e649
+    cmt_id: 50
+    id: 5
+    slides_live_id: 20200422T210513Z__convolutional-neural-network-f__PML4DC2020_05
+    kind: oral
+    session: 1
+    title: Convolutional Neural Network for ECG-based Virtual Pathology Stethoscope Tracking in Patient Heart Auscultation
+    track: research
+  - authors: José Cañete (Universidad de Chile); Gabriel Chaperon (Universidad de Chile)*; Rodrigo Fuentes (Universidad de Chile); Jorge Pérez (universidad de Chile)
+    camera_ready: true
+    cmt_id: 39
+    id: 10
+    slides_live_id: 20200415T035006Z__spanish-pre-trained-bert-model__PML4DC2020_10
     kind: oral
     session: 2
-    title: Beyond Good Intentions - Data Sharing in and for Africa
+    title: Spanish pre-trained BERT model and evaluation data
     track: research
-  title: Contributed Oral Presentations 2
-- id: 3
+  - authors: Sara Ebrahim (AIMS Rwanda)*; Kris Sankaran (Mila)
+    camera_ready: true
+    cmt_id: 11
+    id: 6
+    slides_live_id: 20200412T1855087__low-resource-breast-cancer-det__PML4DC2020_06
+    kind: oral
+    session: 1
+    title: LOW RESOURCE BREAST CANCER DETECTION WITH MAMMOGRAMS
+    track: research
+  - authors: Felipe Polo (University of São Paulo)*, Itamar Ciochetti (Tikal Tech), Emerson Bertolo (Tikal Tech)
+    camera_ready: true
+    cmt_id: 11
+    id: 18
+    slides_live_id: 20200414T194839Z__predicting-legal-proceedings-s__PML4DC2020_18
+    kind: oral
+    session: 1
+    title: "Predicting Legal Proceedings Status: an Approach Based on Sequential Texts"
+    track: research
+  title: Contributed Oral Presentations 2 (02:20 PM - 03:55 PM EDT, New York Time)
+- id: 4
   papers:
   - authors: Michela Paganini (Facebook); Jessica Forde (Brown University)*
     camera_ready: true
@@ -177,8 +206,8 @@
     session: 1
     title: "Artificial Intelligence for Global Health: Learning From a Decade of Digital Transformation in Health Care"
     track: research
-  title: Poster Session 1 (12:35-1:35pm EDT)
-- id: 4
+  title: Poster Session 1 (12:35 PM - 1:35 PM EDT, New York Time)
+- id: 5
   papers:
   - authors: Muhammad Omer (Baylasan for Innovation)*; Moayad Elamin (Baylasan for Innovation); Ammar Khairi (University of Khartoum); Rami Ahmed (Baylasan for Innovation)
     camera_ready: true
@@ -234,7 +263,7 @@
     session: 2
     title: Class Agnostic Object Segmentation using Few-Shot Weakly Supervised Guidance
     track: research
-  - authors: Sathish Indurthi (Samsung Research)*; Hou Jeung Han (Korea); Sangha Kim (Samsung Research)
+  - authors: Hou Jeung Han (Samsung Research)*; Sathish Indurthi (Samsung Research); Sangha Kim (Samsung Research)
     camera_ready: true
     cmt_id: 8
     id: 24
@@ -270,4 +299,4 @@
     session: 2
     title: A Data and Compute Efficient Design for Limited-Resources Deep Learning
     track: research
-  title: Poster Session 2 (4:30-5:30pm EDT)
+  title: Poster Session 2 (04:30 PM - 05:30 PM EDT, New York Time)

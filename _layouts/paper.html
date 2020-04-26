@@ -13,15 +13,9 @@ session_2: false
 		<li><b>{{ page.authors }}</b></li>
 		<li>
 		<span>
-			{% if page.track == "blue_sky" %}
-			Blue Sky Ideas Track
-			{% elsif page.track == "research" %}
-			Research Track
-			{% elsif page.track == "invited" %}
-			Invited Talk
-			{% elsif page.track == "opening" %}
-			Opening Remarks
-			{% endif %}
+			{% if page.camera_ready %}
+			<span><a href="/iclr2020/papers/PML4DC2020_{{ page.id }}.pdf" target="_blank">Paper</a></span>
+			{% else %}
 		</span>
 		{% if page.kind == "oral" %}
 		<span> (Oral)</span>
@@ -33,7 +27,7 @@ session_2: false
 		{% if page.session_id > 0 %}
 		<li>
 		{% if page.camera_ready %}
-		<span><a href="/iclr2020/pdf/PML4DC2020_{{ page.id }}.pdf" target="_blank">PDF</a></span>
+		<span><a href="/iclr2020/pdf/PML4DC2020_{{ page.id }}.pdf" target="_blank">Slide</a></span>
 		{% else %}
 		<span>PDF</span>
 		{% endif %}
