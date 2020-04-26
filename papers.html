@@ -18,8 +18,8 @@ layout: default
      <tr>
           <th>Title</th>
           <th>Authors</th>
-          <th>Track</th>
-          <th>PDF</th>
+          <th>Paper</th>
+          <th>Slide</th>
 </thead>
 <tbody>
 
@@ -40,10 +40,8 @@ layout: default
 </td>
 
 <td>
-{% if paper.track == "industry" %}
-Industry
-{% elsif paper.track == "research" %}
-Research
+{% if paper.camera_ready %}
+<a href="/iclr2020/papers/PML4DC2020_{{ paper.id }}.pdf" target="_blank">Paper</a>
 {% endif %}
 </td>
 
@@ -52,7 +50,6 @@ Research
 <a href="/iclr2020/pdf/PML4DC2020_{{ paper.id }}.pdf" target="_blank">Slide</a>
 {% endif %}
 </td>
-
 
 </tr>
 {% endfor %}
