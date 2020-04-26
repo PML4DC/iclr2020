@@ -37,6 +37,7 @@
     session: 2
     title: Beyond Good Intentions - Data Sharing in and for Africa
     track: research
+    live: true
   - authors: Lukas Kondmann (German Aerospace Center)*; Xiaoxiang Zhu (Technical University of Munich (TUM); German Aerospace Center (DLR))
     camera_ready: true
     slide_ready: true
