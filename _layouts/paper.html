@@ -12,11 +12,11 @@ session_2: false
 	<ul>
 		<li><b>{{ page.authors }}</b></li>
 		<li>
-		<span>
-			{% if page.camera_ready %}
-			<span><a href="/iclr2020/papers/PML4DC2020_{{ page.id }}.pdf" target="_blank">Paper</a></span>
-			{% else %}
-		</span>
+		{% if page.camera_ready %}
+		<span><a href="/iclr2020/papers/PML4DC2020_{{ page.id }}.pdf" target="_blank">Paper</a></span>
+		{% else %}
+		<span>Paper</span>
+		{% endif %}
 		{% if page.kind == "oral" %}
 		<span> (Oral)</span>
 		{% elsif page.kind == "spotlight" %}
@@ -29,7 +29,7 @@ session_2: false
 		{% if page.camera_ready %}
 		<span><a href="/iclr2020/pdf/PML4DC2020_{{ page.id }}.pdf" target="_blank">Slide</a></span>
 		{% else %}
-		<span>PDF</span>
+		<span>Slide</span>
 		{% endif %}
 		{% if page.session_id == 1 and layout.session_1 and page.meeting_url %}
 		<span> · </span>
