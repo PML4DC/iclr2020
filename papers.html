@@ -32,6 +32,8 @@ layout: default
 <span> (Oral)</span>
 {% elsif paper.kind == "poster" %}
 <span> (Poster)</span>
+{% elsif paper.kind == "invited" %}
+<span> (Invited)</span>
 {% endif %}
 </td>
 
@@ -41,13 +43,17 @@ layout: default
 
 <td>
 {% if paper.camera_ready %}
-<a href="/iclr2020/papers/PML4DC2020_{{ paper.id }}.pdf" target="_blank">Paper</a>
+<span><a href="/iclr2020/papers/PML4DC2020_{{ paper.id }}.pdf" target="_blank">Paper</a></span>
+{% else %}
+<span> </span>
 {% endif %}
 </td>
 
 <td>
-{% if paper.camera_ready %}
-<a href="/iclr2020/pdf/PML4DC2020_{{ paper.id }}.pdf" target="_blank">Slide</a>
+{% if paper.slide_ready %}
+<span><a href="/iclr2020/pdf/PML4DC2020_{{ paper.id }}.pdf" target="_blank">Slide</a></span>
+{% else %}
+<span> </span>
 {% endif %}
 </td>
 

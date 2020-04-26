@@ -1,26 +1,30 @@
 - id: 1
   papers:
-  - authors: John Alexis Guerra Gómez
-    camera_ready: true
-    id: 2
-    slides_live_id: 20200422T230246Z__tbd__PML4DC2020_02
-    kind: invited
-    title: Lessons learned from practicing and teaching data science in Latin America
-    live: true
-  - authors: Negar Rouzmateh
-    camera_ready: true
-    id: 3
-    slides_live_id: 20200421T001525Z__tbd__PML4DC2020_03
-    kind: invited
-    title: Learning with less resources - minimizing the labeling effort
-    live: true
   - authors: Charity Wayua
-    camera_ready: true
+    camera_ready: false
+    slide_ready: true
     id: 4
     slides_live_id: 20200422T121423Z__tbd__PML4DC2020_04
     kind: invited
     title: Lessons learned from practicing and teaching data science in Latin America
-    live: true
+    live: false
+  - authors: John Alexis Guerra Gómez
+    camera_ready: false
+    slide_ready: true
+    id: 2
+    slides_live_id: 20200422T230246Z__tbd__PML4DC2020_02
+    kind: invited
+    title: Lessons learned from practicing and teaching data science in Latin America
+    live: false
+  - authors: Negar Rouzmateh
+    camera_ready: false
+    slide_ready: true
+    id: 3
+    slides_live_id: 20200421T001525Z__tbd__PML4DC2020_03
+    kind: invited
+    title: Learning with less resources - minimizing the labeling effort
+    live: false
+  title: Invited Speakers
 - id: 2
   papers:
   - authors: Kehinde Aruleba University of the Witwatersrand); Abeba Birhane (UCD); Sara Kingsley (CMU)*;  George Obaido (University of the Witwatersrand, Johannesburg); Sekou Remy (IBM Research); Swathi Sadagopan (*) 
