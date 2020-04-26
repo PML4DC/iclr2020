@@ -72,8 +72,9 @@ Invited, contributed and poster presenters instructions on how to participate in
 * Kindly view the schedule for your live Q&A slot that will be hosted via Zoom: Schedule link
 * Please make sure to test your if you can connect to the zoom meeting 10 minute before the scheduled session
 
-### PML4DC Specific Zoom Instructions
+### PML4DC Specific Rocket.Chat Instructions
 * During the livestream, please also join the [Rocket.Chat](https://iclr.rocket.chat/channel/workshop_pml4dc) to discuss the workshop content with other participants.
+> ***NOTE: If you are using Rocket.Chat for first time, you need to click: "Forgot your Password" and create a new password with your ICLR registration email before you can login for first time.***
 
 ### PML4DC Specific Zoom Instructions
 * If you are a presenter (invited, oral, and/or poster), or you would like to join as a participant of the workshop, please also join our main [Zoom webinar](https://us02web.zoom.us/j/84503827446?pwd=c0pudlJCSHN3dzgzb2JpcGFxUWhndz09) in addition to the [Rocket.Chat](https://iclr.rocket.chat/channel/workshop_pml4dc) and go to the ICLR workshop page above (Note you will need to be registered to ICLR and login to see the ICLR workshop page).
